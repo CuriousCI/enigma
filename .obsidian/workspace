@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "a20c48b82b0305a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f4ef6053b48e329",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a8f9c2166623fb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98cd828a16eeaeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "000a24e3c1e80924",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24b0df5bc6dba531",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Francia",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294
+  },
+  "right": {
+    "id": "0b78080fc720ee34",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ca788b30530474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90dc033ebada6c9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3f4ef6053b48e329",
+  "lastOpenFiles": [
+    "politica/partiti.md",
+    "politica/PCI.md",
+    "politica/PNF.md",
+    "politica/PSI.md",
+    "tool/Sintesi.md",
+    "autori/Gabriele D'Annunzio.md",
+    "autori/Indro Montanelli.md",
+    "ruoli/Antonio Gramsci.md",
+    "autori/Vincenzo Cardarelli.md",
+    "ruoli/Bernhard Riemann.md"
+  ]
+}
