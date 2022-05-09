@@ -1,7 +1,7 @@
-# [[Roma]] città aperta
+# [Roma](Roma.md) città aperta
 **Da vedere e commentare!!!!!**
 
-Diretto da [[Roberto Rossellini]]
+Diretto da [Roberto Rossellini](Roberto%20Rossellini.md)
 
 ## Idea
 %%TODO: approfondire queste vicende%%
@@ -12,7 +12,7 @@ Nel **giugno del 1944** nacque la sua idea per il film, costruito a due episodi 
 ### Curiosità
 Una sera Rod Geiger, tenente statunitense, scese ubriaco sul set, dichiarandosi un uomo del cinema americano, e, in effetti, fu lui ad assicurare la distribuzione statunitense.
 
-Fu proiettato il **24 settembre 1945** al teatro Quirino di [[Roma]], e non ebbe molto successo: i cattolici lo criticarono perché raccontava la storia di un prete che collaborava con i comunisti, e i comunisti furono infastiditi dal prete raccontato come eroe.
+Fu proiettato il **24 settembre 1945** al teatro Quirino di [Roma](Roma.md), e non ebbe molto successo: i cattolici lo criticarono perché raccontava la storia di un prete che collaborava con i comunisti, e i comunisti furono infastiditi dal prete raccontato come eroe.
 
 Fra il **1945** e il **1946** fu un campione di incassi, e, con il titolo *Open city* trionfò a New York, e fu accolto con entusiasmo a Parigi.
 

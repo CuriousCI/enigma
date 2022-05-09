@@ -5,4 +5,4 @@
 **6 giugno 1875** **12 agosto 1955** 
 
 ## Opere
-[[Buddenbrooks]]
+[Buddenbrooks](Buddenbrooks.md)

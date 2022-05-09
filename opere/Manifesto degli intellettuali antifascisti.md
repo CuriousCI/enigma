@@ -1,2 +1,2 @@
 # Manifesto degli intellettuali antifascisti
-Fu scritto da [[Benedetto Croce]] in risposta al [[Manifesto degli intellettuali fascisti]] nel **1925**
+Fu scritto da [Benedetto Croce](Benedetto%20Croce.md) in risposta al [Manifesto degli intellettuali fascisti](Manifesto%20degli%20intellettuali%20fascisti.md) nel **1925**

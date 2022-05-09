@@ -6,8 +6,8 @@
 **23 luglio 1908**
 **12 febbraio 1966**
 
-fece parte della [[Resistenza]]
+fece parte della [Resistenza](Resistenza.md)
 
 ## Opere
-Scrisse [[Uomini e no]], conobbe [[Salvatore Quasimodo]]
-opere del [[Neorealismo]]
+Scrisse [Uomini e no](Uomini%20e%20no.md), conobbe [Salvatore Quasimodo](Salvatore%20Quasimodo.md)
+opere del [Neorealismo](Neorealismo.md)

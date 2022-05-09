@@ -1,2 +1,2 @@
 # Vittorio Emanuele III
-Appoggiò il [[fascismo]] e [[Benito Mussolini]], famoso per l'armistizio del **3 settembre 1943** durante la [[Seconda guerra mondiale]]
+Appoggiò il [fascismo](fascismo.md) e [Benito Mussolini](Benito%20Mussolini.md), famoso per l'armistizio del **3 settembre 1943** durante la [Seconda guerra mondiale](Seconda%20guerra%20mondiale.md)

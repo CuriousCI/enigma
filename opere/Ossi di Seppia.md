@@ -1,2 +1,2 @@
 # Ossi di Seppia
-Raccolta di poesia pubblicata da [[Eugenio Montale]] nel **1925**
+Raccolta di poesia pubblicata da [Eugenio Montale](Eugenio%20Montale.md) nel **1925**

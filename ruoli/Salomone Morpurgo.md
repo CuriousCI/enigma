@@ -1,2 +1,2 @@
 # Salomone Morpurgo
-Importante esponente dell'[[Irredentismo]]
+Importante esponente dell'[Irredentismo](Irredentismo.md)

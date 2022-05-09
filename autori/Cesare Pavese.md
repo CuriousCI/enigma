@@ -5,4 +5,4 @@
 **27 agosto 1950**
 
 ## Opere
-[[La casa in collina]] in cui racconta la sua esperienza con la [[Resistenza]]
+[La casa in collina](La%20casa%20in%20collina.md) in cui racconta la sua esperienza con la [Resistenza](Resistenza.md)

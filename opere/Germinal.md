@@ -1,1 +1,1 @@
-Mese d'inizio della primavera nel calendario della [[Rivoluzione Francese]]
+Mese d'inizio della primavera nel calendario della [Rivoluzione Francese](Rivoluzione%20Francese)

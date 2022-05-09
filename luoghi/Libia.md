@@ -1,1 +1,1 @@
-Guerra nel **1912** fra [[Italia]] e [[Impero ottomano]]
+Guerra nel **1912** fra [Italia](Italia.md) e [Impero ottomano](Impero%20ottomano.md)

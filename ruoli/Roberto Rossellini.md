@@ -1,10 +1,10 @@
 # Roberto Rossellini
 ![Rossellini+gatta.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rossellini%2Bgatta.jpg/220px-Rossellini%2Bgatta.jpg)
 
-Registra, come [[Leni Riefenstahl]] fece propaganda per il [[fascismo]], fu un autore del [[Neorealismo]]
+Registra, come [Leni Riefenstahl](Leni%20Riefenstahl.md) fece propaganda per il [fascismo](fascismo.md), fu un autore del [Neorealismo](Neorealismo.md)
 
 ## Vita
-Nacque a [[Roma]] l'**8 maggio 1906**: la famiglia di origini Pisane aveva fondato un'impresa edile a [[Roma]] *(costruendo anche alcune cinematografie, da qui nacque la vocazione di Rossellini)*. Il padre riuniva in casa intellettuali e artsiti, e da lì si ebbe luogo la sua formazione culturale.
+Nacque a [Roma](Roma.md) l'**8 maggio 1906**: la famiglia di origini Pisane aveva fondato un'impresa edile a [Roma](Roma.md) *(costruendo anche alcune cinematografie, da qui nacque la vocazione di Rossellini)*. Il padre riuniva in casa intellettuali e artsiti, e da lì si ebbe luogo la sua formazione culturale.
 
 Sviluppò un'amore per le auto, per le gare, per il rischio e il furore di vivere *(la sua prima auto fu una Bugatti).*
 
@@ -12,11 +12,11 @@ Dissipata tutta la sua eredità si trasferi a Ladispoli, dove, nel **1936** spos
 
 Inizialmente lavorò come rumorista *(addetto ai rumori o agli effetti speciali sonori)*, poi diventò tecnico del doppiaggio e del montaggio.
 
-Nel **1941** si trasferì a [[Roma]], nel quartiere Parioli, alla nascita del suo secondogenito, e, lo stesso anno divenne collaboratore di Scalera Film.
+Nel **1941** si trasferì a [Roma](Roma.md), nel quartiere Parioli, alla nascita del suo secondogenito, e, lo stesso anno divenne collaboratore di Scalera Film.
 
-Nel **1942** divenne amico di Vittorio, figlio di [[Benito Mussolini]]
+Nel **1942** divenne amico di Vittorio, figlio di [Benito Mussolini](Benito%20Mussolini.md)
 
-Il **19 luglio 1943** assistette al bombardamento da parte degli americani, e scappò finche [[Roma]] non fu dichiarata *città aperta*, quando, nella primavera del **1944** si unì alla [[Resistenza]].
+Il **19 luglio 1943** assistette al bombardamento da parte degli americani, e scappò finche [Roma](Roma.md) non fu dichiarata *città aperta*, quando, nella primavera del **1944** si unì alla [Resistenza](Resistenza.md).
 
 Nell'**agosto del 1946**, il figio Romano morì a Barcellona, e Rossellini non si riprese mai da questo incidente.
 
@@ -36,7 +36,7 @@ Morì il **3 giugno 1977**
 
 ### Neorealismo
 - Scalo merci **1943**
-- [[Roma città aperta]] **1944**
+- [Roma città aperta](Roma%20citt%C3%A0%20aperta.md) **1944**
 - Paisà aveva l'obiettivo di raccontare la risalita delle truppe americane lungo la penisola dalla Sicilia al Po
 - La macchina ammazzacattivi **1951**
 - Germania anno zero **1948**

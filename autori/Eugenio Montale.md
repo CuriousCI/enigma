@@ -4,8 +4,8 @@
 **15 settembre 1981**
 
 ## Opere
-Pubblicò [[Ossi di Seppia]] nel **1925**
+Pubblicò [Ossi di Seppia](Ossi%20di%20Seppia.md) nel **1925**
 
-Firmò il [[Manifesto degli intellettuali antifascisti]]
+Firmò il [Manifesto degli intellettuali antifascisti](Manifesto%20degli%20intellettuali%20antifascisti.md)
 
-Scrisse [[La primavera hitleriana]]
+Scrisse [La primavera hitleriana](La%20primavera%20hitleriana.md)
