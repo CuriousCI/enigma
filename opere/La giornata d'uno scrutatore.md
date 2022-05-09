@@ -1,2 +1,2 @@
 # La giornata d'uno scrutatore
-Scritto da [Italo Calvino](Italo%20Calvino.md)
+Scritto da [Italo Calvino](../autori/Italo%20Calvino.md)

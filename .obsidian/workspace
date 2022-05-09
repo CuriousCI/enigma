@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4ef6053b48e329",
+        "id": "3f68358c158c1844",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "politica/PCI.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "politica/PCI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f4ef6053b48e329",
+  "active": "3f68358c158c1844",
   "lastOpenFiles": [
+    "notabili/Roberto Rossellini.md",
+    "notabili/Vittorio Emanulele III.md",
+    "notabili/Bava Beccaris.md",
     "politica/PCI.md",
     "README.md",
-    "politica/partiti.md",
-    "politica/PNF.md",
-    "politica/PSI.md",
+    "sintesi.md",
+    "arnesi/Dizionario.md",
+    "belle epoque.md",
     "tool/Sintesi.md",
-    "autori/Gabriele D'Annunzio.md",
-    "autori/Indro Montanelli.md",
-    "ruoli/Antonio Gramsci.md",
-    "autori/Vincenzo Cardarelli.md"
+    "notabili/Antonio Gramsci.md"
   ]
 }

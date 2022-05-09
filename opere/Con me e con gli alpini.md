@@ -1,2 +1,2 @@
 # Con me e con gli aplini
-Collegato alla [Prima guerra mondiale](Prima%20guerra%20mondiale.md)
+Collegato alla [Prima guerra mondiale](../eventi/Prima%20guerra%20mondiale.md)

@@ -1,2 +1,2 @@
 # Il Piacere
-Scritto da [Gabriele D'Annunzio](Gabriele%20D'Annunzio.md)
+Scritto da [Gabriele D'Annunzio](../autori/Gabriele%20D'Annunzio.md)

@@ -1,14 +1,14 @@
 # Edmondo De Amicis
 ![Portrait of Edmondo De Amicis.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Portrait_of_Edmondo_De_Amicis.jpg/220px-Portrait_of_Edmondo_De_Amicis.jpg)
 
-Importante autore del [Risorgimento](Risorgimento.md)
+Importante autore del [Risorgimento](../eventi/Risorgimento.md)
 %% Riferimento a Cavour %%
 
 ## Vita
-Nacque il **21 ottobre 1846** a Oneglia *(Liguria)*, e fu uno scrittore, giornalista e militare, autore di [Cuore](Cuore.md), uno dei libri più popolari della letteratura mondiale per ragazzi.
+Nacque il **21 ottobre 1846** a Oneglia *(Liguria)*, e fu uno scrittore, giornalista e militare, autore di [Cuore](../opere/Cuore.md), uno dei libri più popolari della letteratura mondiale per ragazzi.
 
 Dall'estate del **1862** al **1865** frequentò l'**Accademia militare di Modena**, licenziandosi con il grado di sottotenente, partecipò alla [Terza guerra d'indipendenza ](Terza%20guerra%20d'indipendenza%20) nel **1866**. Divenne *giornalista militare*.
-De Amicis collaborò con il quotidiano *La Nazione di Firenze*, per cui scrisse articoli sulla [presa di Roma](presa%20di%20Roma.md) del **1870**.
+De Amicis collaborò con il quotidiano *La Nazione di Firenze*, per cui scrisse articoli sulla [presa di Roma](../eventi/presa%20di%20Roma.md) del **1870**.
 %% giornalista militare come Indro Montanelli %%
 
 Successivamente, scrisse una seria di diari di viaggio:

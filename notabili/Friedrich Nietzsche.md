@@ -4,4 +4,4 @@
 Filosofo del 1800
 
 ## Vita
-**15 ottobre 1844** **25 agosto 1900** contemporaneo di [Émile Zola](%C3%89mile%20Zola.md) 
+**15 ottobre 1844** **25 agosto 1900** contemporaneo di [Émile Zola](../autori/%C3%89mile%20Zola.md) 

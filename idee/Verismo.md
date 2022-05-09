@@ -1,2 +1,2 @@
 # Verismo
-Autori come [Giovanni Verga](Giovanni%20Verga.md) e [Luigi Capuana](Luigi%20Capuana.md)
+Autori come [Giovanni Verga](../autori/Giovanni%20Verga.md) e [Luigi Capuana](../autori/Luigi%20Capuana.md)

@@ -1,7 +1,7 @@
 # L'umanista digitale
-L'applicazione dell'informatica alle scienze umanistiche in [Italia](Italia.md) è ancora pionieristica. Gli autori del libro si sono occupati spesso di informatica per le scienze umane:
-* *Teresa Numerico*: ricercatrice in **Logica e Filosofia** a [Roma](Roma.md) tre, dove insegna **Epistemologia** _(teoria della conoscenza)_ dei nuovi media.
-* *Domenico Fiormonte*: ricercatore in **Sociologia dei processi** a [Roma](Roma.md) tre, ha tenuto un corso di **Editoria online**.
+L'applicazione dell'informatica alle scienze umanistiche in [Italia](../luoghi/Italia.md) è ancora pionieristica. Gli autori del libro si sono occupati spesso di informatica per le scienze umane:
+* *Teresa Numerico*: ricercatrice in **Logica e Filosofia** a [Roma](../luoghi/Roma.md) tre, dove insegna **Epistemologia** _(teoria della conoscenza)_ dei nuovi media.
+* *Domenico Fiormonte*: ricercatore in **Sociologia dei processi** a [Roma](../luoghi/Roma.md) tre, ha tenuto un corso di **Editoria online**.
 * *Francesca Tomasi*: ricercatrice all'Università di Bologna, insegna **Informatica umanistica**.
 
 L'intento del volume è quello di introdurre l'informatica nei corsi umanistici, per evidenziarne l'accresciuta importanza nelle scienze umane, approfondendo in più punti l'approccio delle **digital humanities**.
@@ -24,7 +24,7 @@ Il vantaggio del **tag 2.0** è che i dati diventano **disponibili** e **aperti*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/110px-Open_Access_logo_PLoS_transparent.svg.png)
 
-La **scienza** e la **conoscenza** devono essere e restare **accessibili a tutti**, senza restrizioni *(nel 2016, l'[ONU](ONU.md) ha dichiarato l'accesso a internet un diritto umano)*. Gli articoli **OA** vengono citati più di quelli su riviste a pagamento, essendo che per la letteratura *royalty-free* l'unico interesse è l'**impatto** e la **diffusione** delle **ricerche** *(senza rinunciare al controllo e alla valutazione degli articoli)*.
+La **scienza** e la **conoscenza** devono essere e restare **accessibili a tutti**, senza restrizioni *(nel 2016, l'[ONU](../eventi/ONU.md) ha dichiarato l'accesso a internet un diritto umano)*. Gli articoli **OA** vengono citati più di quelli su riviste a pagamento, essendo che per la letteratura *royalty-free* l'unico interesse è l'**impatto** e la **diffusione** delle **ricerche** *(senza rinunciare al controllo e alla valutazione degli articoli)*.
 
 ## Scrivere e produrre
 La scrittura è uno strumento di trasmissione della **cultura** e costruzione dell'**identità**: *"babele di dialetti [...] telematici"*.

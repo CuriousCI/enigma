@@ -1,2 +1,2 @@
 # Pinocchio
-Scritto da [Carlo Collodi](Carlo%20Collodi.md)
+Scritto da [Carlo Collodi](../autori/Carlo%20Collodi.md)

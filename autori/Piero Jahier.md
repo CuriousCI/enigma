@@ -5,4 +5,4 @@
 %% https://www.bibliotecasalaborsa.it/bolognaonline/mappa-degli-scrittori-e-scrittrici-a-bologna/writer/piero_jahier %%
 
 ## Opere
-[Con me e con gli alpini](Con%20me%20e%20con%20gli%20alpini.md)
+[Con me e con gli alpini](../opere/Con%20me%20e%20con%20gli%20alpini.md)

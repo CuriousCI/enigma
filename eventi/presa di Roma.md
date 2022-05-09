@@ -1,2 +1,2 @@
-# Presa di [Roma](Roma.md)
-Presa di [Roma](Roma.md) nel **1870**
+# Presa di [Roma](../luoghi/Roma.md)
+Presa di [Roma](../luoghi/Roma.md) nel **1870**

@@ -1,2 +1,2 @@
 # Partito nazionale fascista
-Legato al [fascismo](fascismo.md)
+Legato al [fascismo](../eventi/fascismo.md)
