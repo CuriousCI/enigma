@@ -9,5 +9,5 @@
 fece parte della [Resistenza](Resistenza.md)
 
 ## Opere
-Scrisse [Uomini e no](Uomini%20e%20no.md), conobbe [Salvatore Quasimodo](Salvatore%20Quasimodo.md)
+Scrisse [Uomini e no](Uomini%20e%20no.md), sposò la sorella di [Salvatore Quasimodo](Salvatore%20Quasimodo.md)
 opere del [Neorealismo](Neorealismo.md)

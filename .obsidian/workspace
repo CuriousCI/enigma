@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "enigma/autori/Salvatore Quasimodo.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "650bd4fa2d13b7cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "enigma/autori/Gabriele D'Annunzio.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "enigma/autori/Salvatore Quasimodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +103,15 @@
   },
   "active": "c7d49d28f46b2415",
   "lastOpenFiles": [
+    "enigma/autori/Salvatore Quasimodo.md",
+    "enigma/autori/Elio Vittorini.md",
+    "Untitled.md",
+    "enigma/autori/Gabriele D'Annunzio.md",
     "README.md",
-    "enigma/eventi/leggi di Norinberga.md",
-    "enigma/notabili/Jesse Owens.md",
-    "enigma/eventi/Olimpiadi del 1936.md",
-    "enigma/eventi/Terzo Reich.md",
-    "enigma/eventi/lebensraum.md",
-    "enigma/opere/Mein Kampf.md",
-    "enigma/politica/NSDAP.md",
-    "enigma/luoghi/Stati Uniti.md",
-    "enigma/eventi/trattato di Versailles.md"
+    "enigma/eventi/premio Nobel.md",
+    "enigma/luoghi/Milano.md",
+    "enigma/opere/Solaria.md",
+    "enigma/luoghi/Firenze.md",
+    "enigma/luoghi/Calabria.md"
   ]
 }

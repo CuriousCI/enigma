@@ -157,6 +157,10 @@ Nel **gennaio** del **1933** von Hidenburg nominò [Adolf Hitler](enigma/notabil
 La razza superiore era quella germanica *(un gradino sotto quella latina)*, poi vi erano le razze subumane *(slavi e infine ebrei)*: nel **1935** furono emanate le [leggi di Norinberga](enigma/eventi/leggi%20di%20Norinberga) che escludevano gli **ebrei** dalla vita sociale tedesca e dalla cittadinanza. Chi non riuscì ad espatriare fu mandato ai **campi di concentramento**.
 
 ## 9 - L'Unione Sovietica e lo stalinismo
+### Il totalitarismo sovietico
+
+### L'ascesa dell'Unione Sovietica
+
 ## 10 - Il mondo verso una nuova guerra
 ## 11 - La Seconda guerra mondiale
 # *La Guerra Fredda*
