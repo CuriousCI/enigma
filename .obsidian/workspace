@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "enigma/autori/Salvatore Quasimodo.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,13 +20,8 @@
         "id": "650bd4fa2d13b7cc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "enigma/autori/Gabriele D'Annunzio.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -83,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enigma/autori/Salvatore Quasimodo.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +98,15 @@
   },
   "active": "c7d49d28f46b2415",
   "lastOpenFiles": [
-    "enigma/autori/Salvatore Quasimodo.md",
-    "enigma/autori/Elio Vittorini.md",
-    "Untitled.md",
-    "enigma/autori/Gabriele D'Annunzio.md",
     "README.md",
-    "enigma/eventi/premio Nobel.md",
-    "enigma/luoghi/Milano.md",
-    "enigma/opere/Solaria.md",
-    "enigma/luoghi/Firenze.md",
-    "enigma/luoghi/Calabria.md"
+    "Pasted image 20220510204315.png",
+    "autori/Salvatore Quasimodo.md",
+    "autori/Elio Vittorini.md",
+    "Untitled.md",
+    "autori/Gabriele D'Annunzio.md",
+    "eventi/premio Nobel.md",
+    "luoghi/Milano.md",
+    "opere/Solaria.md",
+    "luoghi/Firenze.md"
   ]
 }
