@@ -7,8 +7,12 @@
         "id": "3f68358c158c1844",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "3f68358c158c1844",
   "lastOpenFiles": [
-    "notabili/Roberto Rossellini.md",
-    "notabili/Vittorio Emanulele III.md",
-    "notabili/Bava Beccaris.md",
-    "politica/PCI.md",
     "README.md",
+    "enigma/idee/Taylorismo.md",
+    "enigma/notabili/Roberto Rossellini.md",
+    "enigma/notabili/Vittorio Emanulele III.md",
+    "enigma/notabili/Bava Beccaris.md",
+    "enigma/politica/PCI.md",
     "sintesi.md",
-    "arnesi/Dizionario.md",
+    "enigma/arnesi/Dizionario.md",
     "belle epoque.md",
-    "tool/Sintesi.md",
-    "notabili/Antonio Gramsci.md"
+    "tool/Sintesi.md"
   ]
 }
