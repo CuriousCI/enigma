@@ -11,7 +11,7 @@ Le **masse** *(dei lavoratori)* divennero sempre più importanti per la vita pol
 
 **Leone XIII**, nel **1891** pubblicò l'enciclica [Rerum Novarum](enigma/opere/Rerum%20Novarum), ma, nel **1903**, **Pio X** si scagliò contro il **modernismo**, [Fin dalla prima](enigma/opere/Fin%20dalla%20prima.md).
 
-Fu forte la resistenza contro le **suffraggette** che chiedevano il **suffraggio universale**.
+Fu forte la resistenza contro le **suffraggette** che chiedevano il [suffraggio universale](enigma/eventi/suffraggio%20universale).
 
 ### L'emigrazione dall'Europa
 Un crisi di **sovrapproduzione** *(come quella del [1929](enigma/eventi/1929))*  portò all'**emigrazione** in **America** *(dove si trovava povertà, sfruttamento, e discriminazione, come in [Sacco e Vanzetti](enigma/opere/Sacco%20e%20Vanzetti))*
@@ -143,6 +143,19 @@ Fu ripristinata la [penda di morte](enigma/altro/penda%20di%20morte), e furono c
 Furono prese di mira la [Libia](enigma/luoghi/Libia) e l'[Etiopia](enigma/luoghi/Etiopia) tra il **1935** e il **1936**, e la [Società delle Nazioni](enigma/eventi/Società%20delle%20Nazioni) sanzionò l'[Italia](enigma/luoghi/Italia), portando più consensi al [fascismo](enigma/eventi/fascismo). Nel **1936**  fu stipulato l'[Asse Roma-Berlino](enigma/eventi/Asse%20Roma-Berlino). Fra il **1938** e il **1939** furono approvate le **Leggi per la difesa della razza**.
 
 ## 8 - La Germania dalla Repubblica di Weimar al Terzo Reich
+### La crisi della Repubblica di Weimar
+Con la sconfitta nella [Prima guerra mondiale](enigma/eventi/Prima%20guerra%20mondiale), la [Germania](enigma/luoghi/Germania) divenne una **repubblica**, la cui Costituzione fu redatta a **Weimar**, esposta agli attacchi dei [partiti](enigma/politica/partiti) estremisti. nel **gennario** del **1919** i comunisti della **Lega di spartaco**. Nel **1919** fu approvata la nuova Costituzione, dando il  [suffraggio universale](enigma/eventi/suffraggio%20universale), dando forti poteri al presidente della Repubblica e al Parlamento.
+
+Il governo fu attaccato per aver accettato il [trattato di Versailles](enigma/eventi/trattato%20di%20Versailles), con l'impossibilità di risolvere la **crisi economica postbellica**, caratterizzata da **inflazione** e **disoccupazione**. La [Germania](enigma/luoghi/Germania) si stava riprendendo nel **1923** grazie investimenti degli [Stati Uniti](enigma/luoghi/Stati%20Uniti), che terminarono con la crisi del [1929](enigma/eventi/1929).
+
+### Lo Stato nazista
+Il [Partito nazista](enigma/politica/NSDAP) di **estrema destra** fu fondato nel **1920** da [Adolf Hitler](enigma/notabili/Adolf%20Hitler) ispirandosi al [fascismo](enigma/eventi/fascismo), e organizzato in **SA** *(camicie brune)*. Nel **1923** i [nazisti](enigma/eventi/nazismo) tentarono un **colpo di Stato a Monaco**. [Adolf Hitler](enigma/notabili/Adolf%20Hitler), in carcere, scrisse il [Mein Kampf](enigma/opere/Mein%20Kampf) in cui denunciò il [trattato di Versailles](enigma/eventi/trattato%20di%20Versailles), sostenne il **riarmo della [Germania](enigma/luoghi/Germania)** e il **recupero dei territori** perduti, l'**annientamento** degli ebrei, e la conquista del [lebensraum](enigma/eventi/lebensraum).
+
+Nel **gennaio** del **1933** von Hidenburg nominò [Adolf Hitler](enigma/notabili/Adolf%20Hitler) **cancelliere** che, grazie al **rogo del Reichstag** nel **febbraio** del **1933**, fece assegnare al governo il potere **legislativo**, per lo stato di emergenza, così divenne capo del [Terzo Reich](enigma/eventi/Terzo%20Reich) e si fece chiamare **Führer** *(guida)*. Nella **notte dei lunghi coltelli** decise di eliminare l'opposizione interna al [partito](enigma/politica/NSDAP) il **30 giugno 1936**, e iniziò un'opera di **propaganda** grazie al ministro **Goebbels**.
+
+### Il razzismo e l'antisemititsmo
+La razza superiore era quella germanica *(un gradino sotto quella latina)*, poi vi erano le razze subumane *(slavi e infine ebrei)*: nel **1935** furono emanate le [leggi di Norinberga](enigma/eventi/leggi%20di%20Norinberga) che escludevano gli **ebrei** dalla vita sociale tedesca e dalla cittadinanza. Chi non riuscì ad espatriare fu mandato ai **campi di concentramento**.
+
 ## 9 - L'Unione Sovietica e lo stalinismo
 ## 10 - Il mondo verso una nuova guerra
 ## 11 - La Seconda guerra mondiale
