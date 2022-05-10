@@ -1,4 +1,4 @@
-# Scientia
+# enigma
 # *Il tramonto dell'eurocentrismo*
 ## 1 - La *belle epoque* tra luci e ombre
 ### Urbanizzazione e società
@@ -106,7 +106,7 @@ In questa situazione di crisi, i **bolscevichi** conquiestarono la sede del **go
 Una volta al governo, i **bolscevichi** emanarono il **decreto sulla pace** e il **decreto sulla terra** *(abolendo la proprietà privata, considerata un diritto naturale da Leone XIII nella [Rerum Novarum](Rerum%20Novarum.md))*, fu emanata una **Costituzione**, insieme alla costituzione di un Consiglio di commissari del popolo, della **Ceka** *(polizia politica)* e **tribunali rivoluzionari** *(ricordano molto la [Rivoluzione Francese](Rivoluzione%20Francese))*
 
 %% Equivalente di LUCE per Hitler? Leni Riefenshtal %%
-Fu creato un **Dipartimento per l'agitazione e la propaganda** *(tipo [LUCE](LUCE) di [Benito Mussolini](Benito%20Mussolini.md))*
+Fu creato un **Dipartimento per l'agitazione e la propaganda** *(tipo [Luce](enigma/eventi/Luce.md) di [Benito Mussolini](Benito%20Mussolini.md))*
 
 Scoppiò una **guerra civile** fra l'**Armata bianca** *(controrivoluzionari)* e l'**Armata rossa** *(bolscevichi)*, che risucì a imporsi, e attuò il **comunismo di guerra** per uscire dalla crisi, impoverendo la popolazione, e aumentando il divario fra città e campagne.
 
@@ -127,6 +127,21 @@ L'ex socialista [Benito Mussolini](Benito%20Mussolini.md) instaurò il movimento
 
 # *Dal primo dopoguerra alla Seconda guerra mondiale*
 ## 7 - L'[Italia](Italia.md) fascista
+### L'instaurazione della dittatura
+[Benito Mussolini](enigma/notabili/Benito%20Mussolini) fu nominato **presidente del consiglio** nel **1922**, e, il **3 dicembre 1922** fece approvare la **Legge dei pieni poteri**, e vennero create due istituzioni: il **Gran Consiglio del [Fascismo](enigma/eventi/fascismo)** e la **Milizia Voontaria per la sicurezza Nazionale** nel **1923**. 
+
+Alle elezioni del **1924**, grazie ad una nuova **legge elettorale** il [PNF](enigma/politica/PNF) ottenne il **65%** dei voti, ed il segretario del [PSU](enigma/politica/PSU), [Giacomo Matteotti](enigma/notabili/Giacomo%20Matteotti) denunciò alla Camera i **brogli elettorali** *(per cui fu rapito e ucciso dai fascisti, e [Benito Mussolini](enigma/notabili/Benito%20Mussolini) ne assunse piena responsabilità, per minacciare gli avversari politici)*.
+
+### La creazione del consenso e la repressione del dissenso
+La dittatura iniziò con le [leggi fascistissime](enigma/eventi/leggi%20fascistissime)  *(fra il **1925** e il **1926**)*, accentrando il poteri **legislativo** ed **esecutivo**, sostitui i **sindacati** con i **podestà** nominati dal governo, abolì la libertà di stampa, di parola e di associazione. Alle elezioni del **[1929](enigma/eventi/1929)** i [fascisti](enigma/eventi/fascismo) guadagnarono il **98%** dei consensi con l'avvicinamento alla [Chiesa cattolica](enigma/politica/Chiesa%20cattolica) e la firma dei [Patti Lateranensi](enigma/eventi/Patti%20Lateranensi) l'**11 febbraio [1929](enigma/eventi/1929)**.
+
+Per costruire il consenso [Mussolini](enigma/notabili/Benito%20Mussolini) creò un **culto della romanità** e della **personalità**, facendo largo uso della **propaganda** *(come per [l'istituto Luce](enigma/eventi/Luce)* fondato **1924**). I giovani vennero inquadrati nell'**Opera Nazionale Balilla** e fu creato il ministero per la **Cultura Popolare**. 
+
+Fu ripristinata la [penda di morte](enigma/altro/penda%20di%20morte), e furono creati l'[OVRA](enigma/eventi/OVRA) e il **Tribunale speciale per la difesa dello Stato**, di cui furono vittima [Antonio Gramsci](enigma/notabili/Antonio%20Gramsci), [Giovanni Minzoni](enigma/notabili/Giovanni%20Minzoni), [Piero Gobetti](enigma/notabili/Piero%20Gobetti), [Giovanni Amendola](enigma/notabili/Giovanni%20Amendola), [Carlo e Nello Rosselli](enigma/notabili/Carlo%20e%20Nello%20Rosselli), o mandati al **confino**, come [Carlo Levi](enigma/autori/Carlo%20Levi).
+
+### Il militarismo e il razzismo fascista
+Furono prese di mira la [Libia](enigma/luoghi/Libia) e l'[Etiopia](enigma/luoghi/Etiopia) tra il **1935** e il **1936**, e la [Società delle Nazioni](enigma/eventi/Società%20delle%20Nazioni) sanzionò l'[Italia](enigma/luoghi/Italia), portando più consensi al [fascismo](enigma/eventi/fascismo). Nel **1936**  fu stipulato l'[Asse Roma-Berlino](enigma/eventi/Asse%20Roma-Berlino). Fra il **1938** e il **1939** furono approvate le **Leggi per la difesa della razza**.
+
 ## 8 - La Germania dalla Repubblica di Weimar al Terzo Reich
 ## 9 - L'Unione Sovietica e lo stalinismo
 ## 10 - Il mondo verso una nuova guerra

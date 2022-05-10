@@ -9,7 +9,7 @@ Nacque a Berlino il **22 agosto 1902** e morì l'**8 settembre 2003** a 101 anni
 ## Film
  Nel **1924**, dopo un'operazione, decise di entrare nel mondo del cinema: 
  * **1926** diventò codirettrice del film _"Der heilige Berg"_
- * **1929** _"Die weiße Hölle vom Piz Palü"_
+ * **[1929](enigma/eventi/1929.md)** _"Die weiße Hölle vom Piz Palü"_
  * **1932** _"Das Blaue Licht"_
  * **1933** _"SOS Eisberg"_
 
