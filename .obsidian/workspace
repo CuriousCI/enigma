@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3f68358c158c1844",
+        "id": "a580ed2e2d62a179",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f68358c158c1844",
+  "active": "a580ed2e2d62a179",
   "lastOpenFiles": [
     "README.md",
+    "enigma/opere/Le vergini delle rocce.md",
+    "enigma/notabili/Nicola II.md",
+    "enigma/eventi/incidente di Fashoda.md",
+    "enigma/notabili/Guglielmo II.md",
+    "enigma/eventi/1929.md",
     "enigma/idee/Taylorismo.md",
-    "enigma/notabili/Roberto Rossellini.md",
-    "enigma/notabili/Vittorio Emanulele III.md",
-    "enigma/notabili/Bava Beccaris.md",
-    "enigma/politica/PCI.md",
-    "sintesi.md",
-    "enigma/arnesi/Dizionario.md",
-    "belle epoque.md",
-    "tool/Sintesi.md"
+    "enigma/idee/Fordismo.md",
+    "enigma/eventi/belle epoque.md",
+    "enigma/notabili/Roberto Rossellini.md"
   ]
 }

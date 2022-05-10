@@ -1,28 +1,28 @@
-# Resoconto
+# Scientia
 # *Il tramonto dell'eurocentrismo*
 ## 1 - La *belle epoque* tra luci e ombre
 ### Urbanizzazione e società
-La [belle epoque](belle%20epoque) va dalla finde del **1800** all'inizio del **1900**, ed è caratterizzata da *"benessere e spensieratezza"*. Grazie allo sviluppo del [Positivismo](Positivismo.md), si diffusero l'**elettricità** *(illuminazione pubblica)* e nuovi **mezzi** *(bici, tram, automobili)*. Si svilupparono i **vaccini** *(colera, vaiolo, rabbia)* e la **sterilizzazione**.
+La [belle epoque](enigma/eventi/belle%20epoque) va dalla finde del **1800** all'inizio del **1900**, ed è caratterizzata da *"benessere e spensieratezza"*. Grazie allo sviluppo del [Positivismo](enigma/idee/Positivismo), si diffusero l'**elettricità** *(illuminazione pubblica)* e nuovi **mezzi** *(bici, tram, automobili)*. Si svilupparono i **vaccini** *(colera, vaiolo, rabbia)* e la **sterilizzazione**.
 
-Si sviluppò il **tempo libero** *(attività sportive, turismo etc...)*, assieme ai **grandi magazzini**, da cui il [Taylorismo](Taylorismo.md) e il [fordismo](fordismo)
+Si sviluppò il **tempo libero** *(attività sportive, turismo etc...)*, assieme ai **grandi magazzini**, da cui il [Taylorismo](enigma/idee/Taylorismo) e il [Fordismo](enigma/idee/Fordismo)
 
 ### La politica di massa
-Le **masse** *(dei lavoratori)* divennero sempre più importanti per la vita politica e sociale, chiedendo il **suffraggio universale maschile**, attraverso i **sindacati** ed i **[partiti](partiti.md) di massa** *(con l'organizzazione in congressi, e forti basi ideologiche)*. I **[partiti](partiti.md) socialisti** operarono per i lavoratori *(stipendi migliori, assicurazioni per infortuni, lavoro minorile e femminile etc...)*.
+Le **masse** *(dei lavoratori)* divennero sempre più importanti per la vita politica e sociale, chiedendo il **suffraggio universale maschile**, attraverso i **sindacati** ed i [partiti](enigma/politica/partiti) di massa *(con l'organizzazione in congressi, e forti basi ideologiche)*. I [partiti](enigma/politica/partiti) socialisti operarono per i lavoratori *(stipendi migliori, assicurazioni per infortuni, lavoro minorile e femminile etc...)*.
 
-**Leone XIII**, nel **1891** pubblicò l'enciclica [Rerum Novarum](Rerum%20Novarum.md), ma, nel **1903**, **Pio X** si scagliò contro il **modernismo**, [Fin dalla prima](Fin%20dalla%20prima.md).
+**Leone XIII**, nel **1891** pubblicò l'enciclica [Rerum Novarum](enigma/opere/Rerum%20Novarum), ma, nel **1903**, **Pio X** si scagliò contro il **modernismo**, [Fin dalla prima](enigma/opere/Fin%20dalla%20prima.md).
 
 Fu forte la resistenza contro le **suffraggette** che chiedevano il **suffraggio universale**.
 
 ### L'emigrazione dall'Europa
-Un crisi di **sovrapproduzione** *(come quella del [1929](1929))*  portò all'**emigrazione** in **America** *(dove si trovava povertà, sfruttamento, e discriminazione, come in [Sacco e Vanzetti](Sacco%20e%20Vanzetti.md))*
+Un crisi di **sovrapproduzione** *(come quella del [1929](enigma/eventi/1929))*  portò all'**emigrazione** in **America** *(dove si trovava povertà, sfruttamento, e discriminazione, come in [Sacco e Vanzetti](enigma/opere/Sacco%20e%20Vanzetti))*
 
 ## 2 - Vecchi imperi e potenze nascenti
 ### Le tensioni fra gli Stati europei
-Nel **1890** circa, [Guglielmo II](Guglielmo%20II) pose **fine** al cancellierato di [Bismark](Bismark) e alla **politica dell'equilibrio**. [Guglielmo II](Guglielmo%20II) voleva il **primato economico e coloniale**. Tra il **1902** e il **1911** l'industria tedesca crebbe a dismisura, facendo **competizione** alla Gran Bretagna. I tentativi di prendere il **Marocco** scatenarono la rivalità con la [Francia](Francia.md) che stava passando il periodo dell'[Affaire Dreyfus](Affaire%20Dreyfus.md), e la Germania riuscì a prendersi una parte del **Congo**.
+Nel **1890** circa, [Guglielmo II](enigma/notabili/Guglielmo%20II) pose **fine** al cancellierato di [Bismark](enigma/notabili/Bismark) e alla **politica dell'equilibrio**. [Guglielmo II](enigma/notabili/Guglielmo%20II) voleva il **primato economico e coloniale**. Tra il **1902** e il **1911** l'industria tedesca crebbe a dismisura, facendo **competizione** alla Gran Bretagna. I tentativi di prendere il **Marocco** scatenarono la rivalità con la [Francia](enigma/luoghi/Francia) che stava passando il periodo dell'[Affaire Dreyfus](enigma/eventi/Affaire%20Dreyfus.md), e la Germania riuscì a prendersi una parte del **Congo**.
 
-Con l'[incidente di Fashoda](incidente%20di%20Fashoda) del **1898**, la [Francia](Francia.md) e la Gran Bretagna riuscirono a stipulare l'[Entente Cordiale](Entente%20Cordiale.md) nel **1904**
+Con l'[incidente di Fashoda](enigma/eventi/incidente%20di%20Fashoda) del **1898**, la [Francia](enigma/luoghi/Francia) e la Gran Bretagna riuscirono a stipulare l'[Entente Cordiale](enigma/eventi/Entente%20Cordiale) nel **1904**
 
-Nel **1882** fu formata la **Triplice alleanza**, fra [Impero austro-ungarico](Impero%20austro-ungarico.md), [Germania](Germania.md) e [Italia](Italia.md), mentre [Nicola II](Nicola%20II) in Russia, a causa di una rivoluzione del **1905** concesse più diritti democratici *(anche dopo la sconfitta contro il Giappone del **1905***). In seguito, nel **1907**, fu stipulata la **Triplice intesa** fra [Francia](Francia.md), [Russia](Russia.md) e [Gran Bretagna](Gran%20Bretagna.md).
+Nel **1882** fu formata la **Triplice alleanza**, fra [Impero austro-ungarico](enigma/luoghi/Impero%20austro-ungarico), [Germania](enigma/luoghi/Germania) e [Italia](enigma/luoghi/Italia), mentre [Nicola II](enigma/notabili/Nicola%20II) in Russia, a causa di una rivoluzione del **1905** concesse più diritti democratici *(anche dopo la sconfitta contro il Giappone del **1905***). In seguito, nel **1907**, fu stipulata la **Triplice intesa** fra [Francia](enigma/luoghi/Francia), [Russia](enigma/luoghi/Russia) e [Gran Bretagna](enigma/luoghi/Gran%20Bretagna).
 
 ### L'imperialismo dei paesi extraeuropei
 Dal **1868** il **Giappone** divenne una potenza industriale, basata sul modello occidentale, dimostrando la sua potenza nella battaglia per il controllo della **Manciuria** nel **1904-1905** contro la Russia.
@@ -31,13 +31,13 @@ In **Cina**, invece, ci fu una rivoluzione nel **1912** che segnò la fine dell'
 
 Anche gli **Stati Uniti** ebbero un'importante crescita, ed il **corollario Roosevelt** prese avvio una **politica imperialistica** nel continente americano e nell'area del Pacifico, con la creazione di **zone di influenza** *(Cuba, Panama, Portorico, Filippine etc...)*.
 
-## 3 - L'[Italia](Italia.md) giolittiana
+## 3 - L'[Italia](enigma/luoghi/Italia) giolittiana
 ### Giolitti e il conflitto sociale
-Per l'[Italia](Italia.md) la **fine** del **1800** fu un periodo di **crisi politica e sociale**, che iniziò con la sconfitta di **Adua** nel **1896** in Africa, e la politica del **pareggio di bilancio** *(che aveva costretto i governi ad aumentare le tasse)*, condizioni che portarono a manifestazioni represse in maniera violenta *(come nel caso del massacro di [Bava Beccaris](Bava%20Beccaris.md) del **1898** a Milano)*.
+Per l'[Italia](enigma/luoghi/Italia) la **fine** del **1800** fu un periodo di **crisi politica e sociale**, che iniziò con la sconfitta di **Adua** nel **1896** in Africa, e la politica del **pareggio di bilancio** *(che aveva costretto i governi ad aumentare le tasse)*, condizioni che portarono a manifestazioni represse in maniera violenta *(come nel caso del massacro di [Bava Beccaris](enigma/notabili/Bava%20Beccaris) del **1898** a Milano)*.
 
-Nel **1900** fu assassinato il re **Umberto I**, e salì al trono [Vittorio Emanulele III](Vittorio%20Emanulele%20III.md), che affidò il governo **Giuseppe Zanardelli**, che nominò ministro degli interni [Giovanni Giolitti](Giovanni%20Giolitti.md), diffondendo la diffusione delle **Camere del lavoro** e delle **Leghe bianche**. 
+Nel **1900** fu assassinato il re **Umberto I**, e salì al trono [Vittorio Emanulele III](enigma/notabili/Vittorio%20Emanulele%20III), che affidò il governo **Giuseppe Zanardelli**, che nominò ministro degli interni [Giovanni Giolitti](enigma/notabili/Giovanni%20Giolitti), diffondendo la diffusione delle **Camere del lavoro** e delle **Leghe bianche**. 
 
-[Giovanni Giolitti](Giovanni%20Giolitti.md) divenne capo del governo dal **1903** e vi rimase fino al **1914**, periodo in cui fece importanti decisioni come il  [patto Gentiloni](patto%20Gentiloni) nel **1913**, e il **suffraggio universale maschile** nel **1912** *(da 9% a 24% della popolazione poteva votare)*. C'è da nominare lo **sviluppo industriale**, grazie all'intervento statale, al **protezionismo doganale** e alla fondazione della **Banca d'[Italia](Italia.md)** *(tale espansione industriale escludeva il **Sud [Italia](Italia.md)**)*.
+[Giovanni Giolitti](enigma/notabili/Giovanni%20Giolitti) divenne capo del governo dal **1903** e vi rimase fino al **1914**, periodo in cui fece importanti decisioni come il  [patto Gentiloni](patto%20Gentiloni) nel **1913**, e il **suffraggio universale maschile** nel **1912** *(da 9% a 24% della popolazione poteva votare)*. C'è da nominare lo **sviluppo industriale**, grazie all'intervento statale, al **protezionismo doganale** e alla fondazione della **Banca d'[Italia](Italia.md)** *(tale espansione industriale escludeva il **Sud [Italia](Italia.md)**)*.
 
 La [questione meridionale](questione%20meridionale) si legava alla **mancanza** di una **riforma agraria**, con la distribuzione delle terre ai contadini *(ma [Giovanni Giolitti](Giovanni%20Giolitti.md) si appoggiava ai **grandi latifondisti**, e le manifestazioni contadine furono represse con grande violenza)*. 
 
