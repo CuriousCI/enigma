@@ -9,19 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "altro/hacking.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
-      },
-      {
-        "id": "650bd4fa2d13b7cc",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -78,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "altro/hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,11 +90,11 @@
   },
   "active": "c7d49d28f46b2415",
   "lastOpenFiles": [
+    "altro/hacking.md",
     "README.md",
     "Pasted image 20220510204315.png",
     "autori/Salvatore Quasimodo.md",
     "autori/Elio Vittorini.md",
-    "Untitled.md",
     "autori/Gabriele D'Annunzio.md",
     "eventi/premio Nobel.md",
     "luoghi/Milano.md",
