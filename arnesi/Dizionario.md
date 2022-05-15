@@ -140,3 +140,57 @@
 - ampia tasca di stoffa o cuoio per  attrezzi o strumenti
 - ciascuna delle 10 fosse dell'ottavo cerchio dell'inferno nella [dantesco](autori/Dante%20Alighieri)
 - luogo in cui vi è grande agitazione, confusione, affollamento
+
+**verace**
+- che è vero, che non ha in se nessuna falsità
+- che è sincero, che non dissimula e non nasconde nulla
+
+**lena**
+- vigoria, energia nell'affrontare le fatiche
+- fiato, respiro affannoso
+
+**pieta**
+- sensodi angoscia, smarrimento
+
+**pelago**
+- alto mare, riva, vasta distesa d'acqua
+- passione amorosa in cui l'animo si perde
+- insieme di cose fastidiose e spiacevoli
+
+**periglioso**
+- pericoloso
+
+**guato**
+- agguato, insidia
+- guatatura, sguardo
+
+**lasso**
+- affaticato, stanco, spossato
+- triste infelice
+
+**piaggia**
+- terreno in pendio
+- spiaggia, costa, territorio, paese
+
+**erta**
+- salita con forte pendenza, faticosa a percorrersi
+
+**presta**
+- prestito
+
+**gaetto**
+- variopinto, chiazzato
+- dal colore delle penne di un gallo
+
+**cagione**
+- motivo
+
+**brame**
+- desiderio ardente e intenso, quasi smodato
+- avidità, bramosia
+
+**carca**
+- carica
+
+**gramare**
+- addolorare, rattristare

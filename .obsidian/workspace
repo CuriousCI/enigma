@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "opere/Divina Commedia.md",
+            "file": "arnesi/Dizionario.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opere/Divina Commedia.md",
+                "file": "arnesi/Dizionario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "c7d49d28f46b2415",
   "lastOpenFiles": [
-    "opere/Divina Commedia.md",
-    "README.md",
-    "luoghi/Gerusalemme.md",
     "arnesi/Dizionario.md",
+    "README.md",
+    "notabili/Leni Riefenstahl.md",
+    "opere/Divina Commedia.md",
+    "luoghi/Gerusalemme.md",
     "altro/umanista digitale.md",
     "autori/Dante Alighieri.md",
     "altro/hacking.md",
     "Pasted image 20220510204315.png",
-    "autori/Salvatore Quasimodo.md",
-    "autori/Elio Vittorini.md"
+    "autori/Salvatore Quasimodo.md"
   ]
 }
