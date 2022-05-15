@@ -128,5 +128,15 @@
 - d'overa originariamente fabbricato
 - tessuto finissimo a velo che forma una rete di maglie poligonali
 
-**comari**
-- 
+**burella**	
+- luogo sotteraneo, nascosto e buio
+- antro, caverna, prigione sotteranea
+
+**ascoso**
+- nascosto
+
+**bolgia**
+- borsa, bisaccia, valigia 
+- ampia tasca di stoffa o cuoio per  attrezzi o strumenti
+- ciascuna delle 10 fosse dell'ottavo cerchio dell'inferno nella [dantesco](autori/Dante%20Alighieri)
+- luogo in cui vi è grande agitazione, confusione, affollamento
