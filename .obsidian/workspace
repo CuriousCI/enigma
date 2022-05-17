@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arnesi/Dizionario.md",
+            "file": "eventi/Prima guerra mondiale.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "readmi",
+                "query": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Battle_of_Frontiers_-_Map.jpg)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arnesi/Dizionario.md",
+                "file": "eventi/Prima guerra mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "c7d49d28f46b2415",
   "lastOpenFiles": [
-    "arnesi/Dizionario.md",
+    "eventi/Prima guerra mondiale.md",
+    "luoghi/Jutland.md",
     "README.md",
-    "notabili/Leni Riefenstahl.md",
-    "opere/Divina Commedia.md",
-    "luoghi/Gerusalemme.md",
+    "luoghi/Palestina.md",
+    "luoghi/Romania.md",
+    "luoghi/Balcani.md",
     "altro/umanista digitale.md",
-    "autori/Dante Alighieri.md",
-    "altro/hacking.md",
-    "Pasted image 20220510204315.png",
-    "autori/Salvatore Quasimodo.md"
+    "altro/SEO.md",
+    "altro/penda di morte.md",
+    "altro/hacking.md"
   ]
 }
