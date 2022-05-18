@@ -5,9 +5,7 @@ Collegata ai [14 punti di Wilson](14%20punti%20di%20Wilson.md)
 %% Ravages %%
 
 ## Geografia
-### Cartina globale
-
-![WWI](assets/WWI.png)
+![WWI](../assets/WWI.png)
 
 ### Fronte occidentale
 #### Il piano Shlieffen
@@ -63,7 +61,7 @@ Collegata ai [14 punti di Wilson](14%20punti%20di%20Wilson.md)
 #### Ritirata [russa](luoghi/Russia)
 ![Ritirata russa](https://upload.wikimedia.org/wikipedia/commons/1/10/EasternFront1915b.jpg)
 
-### marzo
+#### marzo
 ![marzo](https://upload.wikimedia.org/wikipedia/commons/7/71/EasternFront1916a.jpg)
 
 
@@ -76,13 +74,66 @@ Collegata ai [14 punti di Wilson](14%20punti%20di%20Wilson.md)
 #### Linea dell'armistizio
 ![Linea dell'armistizio](https://upload.wikimedia.org/wikipedia/commons/b/bd/Map_Treaty_of_Brest-Litovsk-es.svg)
 
+### Fronte dei [Balcani](../luoghi/Balcani)
+#### Battaglia del Cer
+![Battaglia del Cer](https://upload.wikimedia.org/wikipedia/commons/f/ff/Battle_of_Cer.jpg)
 
+#### Battaglia del Kolubara
+![Battaglia del Kolubara](https://upload.wikimedia.org/wikipedia/commons/5/52/Battle_of_Kolubara.jpg)
 
-### Fronte dei [Balcani](luoghi/Balcani)
-### Fronte [italo](luoghi/Italia)-[austriaco](luoghi/Impero%20austro-ungarico)
-### Fronte [romeno](luoghi/Romania)
+#### Collasso della Serbia
+![Collasso della Serbia](https://upload.wikimedia.org/wikipedia/commons/9/97/Serbia-WW1-3.jpg)
+
+#### Fronte della Salonika
+![Fronte della Salonika](https://upload.wikimedia.org/wikipedia/commons/5/57/Serbia-WW1-4.jpg)
+
+### Fronte [italo](../luoghi/Italia)-[austriaco](luoghi/Impero%20austro-ungarico)
+#### Battaglie dell'Isonzo
+![Battalie dell'Isonzo](https://upload.wikimedia.org/wikipedia/commons/2/27/Italian_Front_1915-1917.jpg)
+
+#### Battaglia di Caporetto
+![Battaglia di Caporetto](https://upload.wikimedia.org/wikipedia/commons/8/8f/Battle_of_Caporetto.jpg)
+
+#### Battaglia di Vittorio Veneto
+![Battaglia di Vittorio Veneto](https://upload.wikimedia.org/wikipedia/commons/5/58/Battle_of_Vittorio_Veneto.jpg)
+
+### Fronte [romeno](../luoghi/Romania)
+#### Avanzata romena
+![Avanzata romena](https://upload.wikimedia.org/wikipedia/commons/b/b6/Romania-WW1-1.jpg)
+
+#### Offensiava poteri centrali
+![Offensiva poteri centrali](https://upload.wikimedia.org/wikipedia/commons/a/af/Romania-WW1-2.jpg)
+
+#### Le operazioni continuano
+![1916 - 1917](https://upload.wikimedia.org/wikipedia/commons/d/df/Romania-WW1-3.jpg)
+
 ### Campagna della Mesopotamia
+
 ### Campagna di Gallipoli
-### Campagna [palestinese](luoghi/Palestina)
+#### Campagna dei Dardanelli
+![Campagna dei Dardanelli](https://upload.wikimedia.org/wikipedia/commons/f/f4/Gallipoli1915.jpg)
+
+
+### Campagna [palestinese](../luoghi/Palestina)
+#### Prima battaglia di Gaza
+![Campagna in Egitto e Palestina](https://upload.wikimedia.org/wikipedia/commons/2/29/Sinai-WW1-1.jpg)
+
+#### Operazioni
+![Operazioni](https://upload.wikimedia.org/wikipedia/commons/d/da/Palestine-WW1-2.jpg)
+
+#### Battaglia di Megido
+![Battaglia di Megido](https://upload.wikimedia.org/wikipedia/commons/c/c1/Maps_57_palestine_megiddo_%281600%29.jpg)
+
 ### Campagna del Caucaso
+#### Fronte del Caucaso
+![Fronte del Caucaso](https://upload.wikimedia.org/wikipedia/commons/c/c1/Maps_57_palestine_megiddo_%281600%29.jpg)
+
 ### Teatro africano 
+#### La Germania reclama l'Africa
+![La Germania reclama l'Africa](https://upload.wikimedia.org/wikipedia/commons/4/46/Germany_clains_in_africa_1917.jpg)
+
+#### La cartina di Delbruck
+![Delbruck](https://upload.wikimedia.org/wikipedia/commons/f/f4/Ger_claims_Prof_Delbruck_1917.jpg)
+
+#### Fronte sud-occidentale africano
+![Fronte sud-occidentale africano](https://upload.wikimedia.org/wikipedia/commons/c/ca/S%C3%BCdwestafrika_1915.jpg)
