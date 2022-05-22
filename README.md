@@ -1,4 +1,6 @@
-# enigma
+## Indice
+- [analisi](analisi/README)
+- [database](database/README)
 
 # _Il tramonto dell'eurocentrismo_
 

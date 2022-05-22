@@ -46,7 +46,13 @@ Collegata ai [14 punti di Wilson](14%20punti%20di%20Wilson.md)
 
 
 ### Fronte orientale
+Aperto nell'**agosto** del **1914**, vi si scontrarono [Germania](../luoghi/Germania), l'[Impero austro-ungarico](../luoghi/Impero%20austro-ungarico) e l'[Impero ottomano](../luoghi/Impero%20ottomano), a cui si unì la Bulgaria nel **1915** opposti dalla [Russia](../luoghi/Russia) e dalla [Romania](../luoghi/Romania) che si unì al conflitto nel **1916**.
+
 #### agosto - settembre
+La **battaglia di Tannenberg**, *(al confine tedesco con la Cecoslovacchia)* fu il primo grande scontro sul fronte orientale, si svolse fra il **26** e il **30 agosto 1914**, e si concluse con la competa vittoria delle forze tedesche, bloccando l'invasione russa.
+
+La **Prima battaglia dei laghi Masuri** *([Polonia](../luoghi/Polonia) occidentale)* fu combattuta dal **7** al **14 settembre 1917**, e vide la vittoria dell'esercito [tedesco](../luoghi/Germania) su quello [russo](../luoghi/Russia).
+
 ![Fronte orientale](https://upload.wikimedia.org/wikipedia/commons/f/ff/EasternFront1914a.jpg)
 
 #### Battaglia di Tannenberg
