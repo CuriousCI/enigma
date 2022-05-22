@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "arnesi/Dizionario.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "arnesi/Dizionario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "c7d49d28f46b2415",
   "lastOpenFiles": [
+    "arnesi/Dizionario.md",
     "README.md",
+    "Untitled.md",
+    "luoghi/Ucraina.md",
+    "altro/Assemblea Costituente.md",
     "database/README.md",
     "analisi/README.md",
     "analisi/Limiti.md",
     "notabili/Isaac Newton.md",
-    "notabili/Archimede.md",
-    "notabili/Willebrord Snell.md",
-    "notabili/Galileo Galilei.md",
-    "arnesi/Dizionario.md",
-    "altro/SEO.md"
+    "notabili/Archimede.md"
   ]
 }

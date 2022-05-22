@@ -194,3 +194,71 @@
 
 **gramare**
 - addolorare, rattristare
+
+**cinto**
+- carico, coperto
+
+**lodo**
+- lode
+- soluzione di una controversia proposta da un personaggio autorevole
+
+**ratto**
+- veloce, rapido, presto
+
+**incontanente**
+- immediatamente, subito
+- appena che
+
+**crucciare**
+- tormentare, addolorare, nascondere
+
+**gota**
+- lato 
+- guancia
+
+**ontologia**
+- modalità di rappresentazione dell'informazione attraverso la descrizione di entità dotate di attributi e delle loro relazione in un determinato dominio
+- parte della filosofia che studia le modalità di essere in se
+
+**nocchiere**
+- chi governa e guida una nave
+- nella marina militare, personale adetto ai servizi marinareschi di bordo, ovvero alla manovra
+
+**rota**
+- ruota
+
+**bragia**
+- brace
+
+**lito**
+- pietra, roccia, calcare
+- lido
+- capacità di alcune sostanze di trovarsi in soluzione in certe condizioni
+
+**adagiare**
+- deporre, posare con cautela
+- accomodare, conformare
+- fornire di agi
+
+**aunare**
+- adunare
+
+**vermiglio**
+- che ha un colore rosso intenso e acceso
+- cocciniglia
+
+**proda**
+- sponda, riva
+- striscia di terreno lungo
+- orlo di un pendio
+- prora, prua
+
+**sospignere**
+- sospingere
+
+**sospingere**
+- spingere in avanti
+- spronare, inspirare
+
+**viro**
+- uomo
