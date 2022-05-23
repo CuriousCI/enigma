@@ -1,6 +1,7 @@
 ## Indice
 - [analisi](analisi)
 - [database](database)
+- [altro...](altro)
 
 # _Il tramonto dell'eurocentrismo_
 
@@ -185,6 +186,8 @@ Nel **1934** l'**Unione Sovietica** riuscì ad entrare nella [Società delle Naz
 
 ## 10 - Il mondo verso una nuova guerra
 ### La crisi economica del 1929
+Alla fine della [Prima guerra mondiale](eventi/Prima%20guerra%20mondiale)
+
 ### La guerra civile spagnola
 
 ## 11 - La Seconda guerra mondiale

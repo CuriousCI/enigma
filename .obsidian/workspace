@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arnesi/Dizionario.md",
+            "file": "altro/sistemi elettorali.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 175
   },
   "right": {
     "id": "0b78080fc720ee34",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arnesi/Dizionario.md",
+                "file": "altro/sistemi elettorali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "c7d49d28f46b2415",
   "lastOpenFiles": [
-    "arnesi/Dizionario.md",
+    "altro/sistemi elettorali.md",
+    "politica/PPI.md",
+    "altro/Statuto Albertino.md",
+    "luoghi/Italia.md",
     "README.md",
-    "Untitled.md",
+    "altro/README.md",
+    "arnesi/Dizionario.md",
     "luoghi/Ucraina.md",
     "altro/Assemblea Costituente.md",
-    "database/README.md",
-    "analisi/README.md",
-    "analisi/Limiti.md",
-    "notabili/Isaac Newton.md",
-    "notabili/Archimede.md"
+    "database/README.md"
   ]
 }
