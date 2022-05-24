@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c7d49d28f46b2415",
+        "id": "86d8063c17c8acfb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,6 +15,39 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "edacdf65c92e6567",
+        "type": "split",
+        "children": [
+          {
+            "id": "a513b5ab7575b8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "luoghi/Scandiano.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4bd3a05add0c211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "luoghi/Pordenone.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -54,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 744
+    "width": 336
   },
   "right": {
     "id": "0b78080fc720ee34",
@@ -88,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7d49d28f46b2415",
+  "active": "86d8063c17c8acfb",
   "lastOpenFiles": [
     "autori/Pier Paolo Pasolini.md",
-    "autori/README.md",
-    "README.md",
-    "altro/pena di morte.md",
-    "mhpp9utv6gc31.webp",
-    "altro/sistemi elettorali.md",
-    "politica/PPI.md",
-    "altro/Statuto Albertino.md",
-    "luoghi/Italia.md",
-    "altro/README.md"
+    "luoghi/Scandiano.md",
+    "luoghi/Cremona.md",
+    "luoghi/Sacile.md",
+    "luoghi/Pordenone.md",
+    "luoghi/Belluno.md",
+    "luoghi/Conegliano.md",
+    "luoghi/Parma.md",
+    "luoghi/Bologna.md",
+    "notabili/Leni Riefenstahl.md"
   ]
 }
