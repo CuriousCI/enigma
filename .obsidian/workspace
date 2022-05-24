@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "altro/sistemi elettorali.md",
+            "file": "autori/Pier Paolo Pasolini.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175
+    "width": 744
   },
   "right": {
     "id": "0b78080fc720ee34",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "altro/sistemi elettorali.md",
+                "file": "autori/Pier Paolo Pasolini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "c7d49d28f46b2415",
   "lastOpenFiles": [
+    "autori/Pier Paolo Pasolini.md",
+    "autori/README.md",
+    "README.md",
+    "altro/pena di morte.md",
+    "mhpp9utv6gc31.webp",
     "altro/sistemi elettorali.md",
     "politica/PPI.md",
     "altro/Statuto Albertino.md",
     "luoghi/Italia.md",
-    "README.md",
-    "altro/README.md",
-    "arnesi/Dizionario.md",
-    "luoghi/Ucraina.md",
-    "altro/Assemblea Costituente.md",
-    "database/README.md"
+    "altro/README.md"
   ]
 }

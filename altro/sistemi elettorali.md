@@ -81,3 +81,7 @@ Dal **1929** al **1934** gli elettori furono chiamati a votare **si** o **no** a
 Nel **1939** la Camera dei Deputati fu trasformata i **Camera dei Fasci e delle Coroporazioni**, i cui membri venivano nominati direttamente dal [PNF](../politica/PNF), e le **elezioni politiche** vennero **abrogate**.
 
 ### Legge elettorale italiana del 1946
+
+
+
+![](../mhpp9utv6gc31.webp)
