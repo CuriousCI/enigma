@@ -107,7 +107,7 @@ Furono creati anche enormi **campi di prigionia**, e fu portato a termine dai Tu
 ### La Rivoluzione russa
 All'inizio del **1917** la situazione Russa era drammatica, la **guerra** andava male, e c'era la **fame**: **operai** e **soldati** si rivoltarono in tutta la Russia, portando ad una **rivoluzione** che pose fine alla dinastia dei Romanov.
 
-Fu nominato un **governo provvisorio**, e si svilupparono i **soviet**, istituendo un **doppio potere**. In questa situazione precaria, [Lenin](Lenin) presentò le **tesi di aprile**: **pace** ad ogni costo, **terra** ai contadini, pieni poteri ai **soviet**.
+Fu nominato un **governo provvisorio**, e si svilupparono i **soviet**, istituendo un **doppio potere**. In questa situazione precaria, [Lenin](notabili/Lenin.md) presentò le **tesi di aprile**: **pace** ad ogni costo, **terra** ai contadini, pieni poteri ai **soviet**.
 
 In questa situazione di crisi, i **bolscevichi** conquiestarono la sede del **governo**.
 
@@ -119,7 +119,7 @@ Fu creato un **Dipartimento per l'agitazione e la propaganda** _(tipo [Luce](eve
 
 Scoppiò una **guerra civile** fra l'**Armata bianca** _(controrivoluzionari)_ e l'**Armata rossa** _(bolscevichi)_, che risucì a imporsi, e attuò il **comunismo di guerra** per uscire dalla crisi, impoverendo la popolazione, e aumentando il divario fra città e campagne.
 
-Nel **1921** [Lenin](Lenin) vaò la **NEP** che fece subito crescere l'economia Russa.
+Nel **1921** [Lenin](notabili/Lenin.md) vaò la **NEP** che fece subito crescere l'economia Russa.
 
 ## 6 - L'[Italia](Italia.md) dal dopoguerra al fascismo
 ### Le tensioni del dopoguerra

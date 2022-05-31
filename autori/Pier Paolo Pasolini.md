@@ -1,6 +1,6 @@
 # Pier Paolo Pasolini
 
-![](../Pasted%20image%2020220524072152.jpg)
+![](../assets/Pier%20Paolo%20Pasolini.jpg)
 
 ## Vita
 Pier Paolo Pasolini nacque a [Bologna](../luoghi/Bologna) nel **1922**, e nel corso della sua infanzia si sposta per verie città del Nord:
