@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "autori/Pier Paolo Pasolini.md",
+            "file": "notabili/Enrico Berlinguer.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autori/Pier Paolo Pasolini.md",
+                "file": "notabili/Enrico Berlinguer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,8 @@
   },
   "active": "86d8063c17c8acfb",
   "lastOpenFiles": [
+    "notabili/Enrico Berlinguer.md",
+    "idee/Futurismo.md",
     "autori/Pier Paolo Pasolini.md",
     "assets/Pier Paolo Pasolini.jpg",
     "notabili/Lenin.md",
@@ -127,8 +129,6 @@
     "notabili/Friedrich Nietzsche.md",
     "autori/Alberto Moravia.md",
     "luoghi/Pordenone.md",
-    "luoghi/Scandiano.md",
-    "luoghi/Cremona.md",
-    "luoghi/Sacile.md"
+    "luoghi/Scandiano.md"
   ]
 }
