@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "luoghi/Scandiano.md",
+                "file": "database/Progettazione logica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notabili/Enrico Berlinguer.md",
+                "file": "database/Progettazione logica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86d8063c17c8acfb",
+  "active": "a513b5ab7575b8e5",
   "lastOpenFiles": [
+    "database/Progettazione logica.md",
     "notabili/Enrico Berlinguer.md",
+    "luoghi/Scandiano.md",
     "idee/Futurismo.md",
     "autori/Pier Paolo Pasolini.md",
     "assets/Pier Paolo Pasolini.jpg",
     "notabili/Lenin.md",
     "autori/Indro Montanelli.md",
     "notabili/Friedrich Nietzsche.md",
-    "autori/Alberto Moravia.md",
-    "luoghi/Pordenone.md",
-    "luoghi/Scandiano.md"
+    "autori/Alberto Moravia.md"
   ]
 }
