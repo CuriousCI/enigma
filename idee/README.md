@@ -1,0 +1,10 @@
+# Idee
+- [Ermetismo](Ermetismo)
+- [Fordismo](Fordismo)
+- [Futurismo](Futurismo)
+- [Irredentismo](Irredentismo)
+- [Neorealismo](Neorealismo)
+- [Positivismo](Positivismo)
+- [Taylorismo](Taylorismo)
+- [Trasformismo](Trasformismo)
+- [Verismo](Verismo)

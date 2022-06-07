@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notabili/Enrico Berlinguer.md",
+            "file": "idee/README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/Progettazione logica.md",
+                "file": "idee/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a513b5ab7575b8e5",
+  "active": "86d8063c17c8acfb",
   "lastOpenFiles": [
-    "database/Progettazione logica.md",
+    "idee/README.md",
+    "database/README.md",
     "notabili/Enrico Berlinguer.md",
+    "database/Progettazione logica.md",
     "luoghi/Scandiano.md",
     "idee/Futurismo.md",
     "autori/Pier Paolo Pasolini.md",
     "assets/Pier Paolo Pasolini.jpg",
     "notabili/Lenin.md",
-    "autori/Indro Montanelli.md",
-    "notabili/Friedrich Nietzsche.md",
-    "autori/Alberto Moravia.md"
+    "autori/Indro Montanelli.md"
   ]
 }
