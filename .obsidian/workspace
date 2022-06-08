@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "idee/README.md",
+            "file": "autori/Umberto Saba.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idee/README.md",
+                "file": "autori/Umberto Saba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "86d8063c17c8acfb",
   "lastOpenFiles": [
-    "idee/README.md",
-    "database/README.md",
-    "notabili/Enrico Berlinguer.md",
-    "database/Progettazione logica.md",
-    "luoghi/Scandiano.md",
-    "idee/Futurismo.md",
-    "autori/Pier Paolo Pasolini.md",
-    "assets/Pier Paolo Pasolini.jpg",
-    "notabili/Lenin.md",
-    "autori/Indro Montanelli.md"
+    "autori/Umberto Saba.md",
+    "autori/Salvatore Quasimodo.md",
+    "autori/Primo Levi.md",
+    "autori/Luigi Pirandello.md",
+    "autori/Italo Svevo.md",
+    "autori/Hannah Arendt.md",
+    "autori/Giosuè Carducci.md",
+    "autori/Eugenio Montale.md",
+    "autori/Emilio Lussu.md",
+    "autori/Edmondo De Amicis.md"
   ]
 }
