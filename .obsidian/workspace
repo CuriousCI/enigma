@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "arnesi/Dizionario.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "arnesi/Dizionario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "83b28d6616e35d94",
   "lastOpenFiles": [
+    "arnesi/Dizionario.md",
     "README.md",
     "eventi/Prima guerra mondiale.md",
     "Untitled.md",
@@ -111,7 +112,6 @@
     "autori/Salvatore Quasimodo.md",
     "autori/Primo Levi.md",
     "autori/Luigi Pirandello.md",
-    "autori/Italo Svevo.md",
-    "autori/Hannah Arendt.md"
+    "autori/Italo Svevo.md"
   ]
 }

@@ -262,3 +262,47 @@
 
 **viro**
 - uomo
+
+**civetteria**
+- comportamente mirato all'attrazione sensuale
+
+**puerile**
+- proprio dei bambini
+- che rivela immaturità
+
+*"E io parlavo quasi senza pensare; o piuttosto, il mio pensiero parlava da sé, come per un bisogno di rilasciare la sua spasimosa tensione" (Uno, nessuno e centomila)*.
+
+**biavo**
+- che ha un colore azzurro, chiaro, sbiadito
+
+**struggere**
+- liquefare
+- consumare lentamente
+- distruggere
+
+*"Di solito, alle normali operazioni della gisutizia non è da rimproverare la fretta." (Uno, nessuno e centomila)*
+
+**rimbrottare**
+- rimproverare
+- rinfacciarsi i torti
+
+**languore**
+- stato di debolezza
+- struggimento, abbandono
+
+**remissione**
+- perdono
+- sottomissione
+- perdita di un affare
+
+**branda**
+- letto a telaio metallico pieghevole
+- amaca di tela usata a bordo dai marinai come letto
+
+**diafano**
+- detto di corpo parzialmente trasparente
+- delicato, esile, gracile
+
+**ameno**
+- piacente, ridente
+- allegro, divertente
