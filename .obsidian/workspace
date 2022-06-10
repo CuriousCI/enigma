@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "86d8063c17c8acfb",
+        "id": "83b28d6616e35d94",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "autori/Umberto Saba.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,34 +17,17 @@
         }
       },
       {
-        "id": "edacdf65c92e6567",
-        "type": "split",
-        "children": [
-          {
-            "id": "a513b5ab7575b8e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/Progettazione logica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4bd3a05add0c211",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pier Paolo Pasolini.jpg"
-              }
-            }
+        "id": "be9ef2b7c0a021fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "eventi/Prima guerra mondiale.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -100,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autori/Umberto Saba.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86d8063c17c8acfb",
+  "active": "83b28d6616e35d94",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "eventi/Seconda guerra mondiale.md",
+    "eventi/Prima guerra mondiale.md",
     "autori/Umberto Saba.md",
     "autori/Salvatore Quasimodo.md",
     "autori/Primo Levi.md",
     "autori/Luigi Pirandello.md",
     "autori/Italo Svevo.md",
-    "autori/Hannah Arendt.md",
-    "autori/Giosuè Carducci.md",
-    "autori/Eugenio Montale.md",
-    "autori/Emilio Lussu.md",
-    "autori/Edmondo De Amicis.md"
+    "autori/Hannah Arendt.md"
   ]
 }

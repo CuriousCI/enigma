@@ -186,15 +186,47 @@ Nel **1934** l'**Unione Sovietica** riuscì ad entrare nella [Società delle Naz
 
 ## 10 - Il mondo verso una nuova guerra
 ### La crisi economica del 1929
-Alla fine della [Prima guerra mondiale](eventi/Prima%20guerra%20mondiale)
+Alla fine della [Prima guerra mondiale](eventi/Prima%20guerra%20mondiale) la crisi fu devastante: **disoccupazione** e **inflazione** dominavano sia i paesi vincitori che i paesi sconfitti in Europa. Al contrario, gli [Stati Uniti](luoghi/Stati%20Uniti)  videro la prosperità degli **anni ruggenti** e del **mercato borsistico**, ma, nel **settembre** del **1929**, il valore dei titoli azionari crollò rapidamente, portando a una **corsa alla vendita dei titoli**, che terminò il **24 ottobre 1929**, o **giovedì nero**, portando alla "Grande depressione". 
+
+**Roosevelt** divenne presidente nel **1932** e rilanciò l'economia con l'aumento della spesa pubblica con il **New Deal**, facendo ripartire l'economia americana.
 
 ### La guerra civile spagnola
+In Europa si stavano sviluppando **dittature di destra** in vari paesi, come: [Italia](luoghi/Italia), [Germinal](opere/Germinal), Portogallo, Austria, Ungheria, [Polonia](luoghi/Polonia), Lituania, Estonia, Iugoslavia, Spagna, [Romania](luoghi/Romania) e Grecia.
+
+In **Spagna** nel **1923**, il generale **De Rivera**, con il supporto di **Alfonso XIII**, attuò un **colpo di Stato** instaurando una dittatura che durò fino al **1931** quando alle [elezioni](altro/sistemi%20elettorali) vinsero socialisti e repubblicani. Nel **1933** le destre vinsero le elezioni, abrogando le iniziative repubblicane sulle terre, e generando un malcontento generale.
+
+Nel **1936** le elezioni furono nuovamente vinte dai partiti di sinistra, con il nome di **Fronte popolare**, allora, **Francisco Franco**, insieme ad altri generali, organizzò un **colpo di Stato**, invadendo il sud del paese, con il supporto della [Germania](luoghi/Germania) e dell'[Italia](luoghi/Italia) *(con il bombardamento di **Guernica** del **1937**)*.
+
+La **guerra civile** si concluse nel **1939** con la vittoria di **Francisco Franco** che instaurò una dittatura fino al **1975**.
 
 ## 11 - La Seconda guerra mondiale
 ### Lo scoppio della guerra
+Nel **1939** [Hitler](notabili/Adolf%20Hitler) firmò con l'[Italia](luoghi/Italia) il **Patto d'acciaio** *(alleanza)* e un patto con l'**Unione Sovietica**. Il **1° settembre 1939** [Hitler](notabili/Adolf%20Hitler) ordinò di invadere la [Polonia](luoghi/Polonia), e [Francia](luoghi/Francia) e Inghilterra dichiararono guerra alla [Germania](luoghi/Germania). Le truppe [naziste](eventi/nazismo), in 3 settimane, con il **Blitzkrieg** annientarono la [Polonia](luoghi/Polonia).
+
+I sovietici attacarono, senza successo, la **Finlandia**, e i tedeschi occuparono la **Danimarca** e la **Norvegia**. Nella **primavera** del **1940** [Hitler](notabili/Adolf%20Hitler) attacò l'**Olanda** il **Belgio** e la [Francia](luoghi/Francia), circondando le trubbe inglesi e francesi a **Dunkerque**: a nord la [Francia](luoghi/Francia) fu occupata dai tedeschi, e a sub fu creato il **governo di Vichy** *(guidato da Petan)*. [Hitler](notabili/Adolf%20Hitler) non riuscì ad occupare l'**Inghilterra**. 
+
+L'[Italia](luoghi/Italia) entrò a far parte del conflitto il **10 giugno 1940**, attacando la [Francia](luoghi/Francia) già indebolito, subendo delle **sconfitte** in **Grecia**  e in **Nord Africa**, e fu salvata dai **tedeschi**. Nel **1941** l'impero coloniale italiano fu liquidato.
+
 ### Le fasi cruciali della guerra
+Nel **giugno** del **1941**  [Hitler](notabili/Adolf%20Hitler) decise di attacare l'**Unione Sovietica**, arrivando con i **Blitzkrieg** fino a **Mosca** e **Stalingrado** *(la guerra a est fu caratterizzata da ingenti danni nei confronti dei **civili**, provocando la formazione di movimenti di **resistenza**)*. Parallelamente, le truppe tedesche diedero inizio allo **sterminio degli ebrei**.
+
+Il **7 dicembre 1941** i giapponesi attacarono **Pearl Harbor**, per la spartizione del **Pacifico**, per cui, l'**8 dicembre** gli [Stati Uniti](luoghi/Stati%20Uniti) dichiararono guerra al **Giappone**, mettendo in moto la produzione bellica. Il **1942** fu un anno di svolta per gli **Alleati**: i giapponesi vennero fermati, i nazifasciti cacciati dal Nord Africa, e i tedeschi sconfitti a **Stalingrado**.
+
 ### La guerra in Italia
+Gli **Alleati** sbarcarono in Sicilia nel **luglio** del **1943**, e il **25 luglio 1943** [Mussolini](notabili/Benito%20Mussolini) fu destituito e arrestato, e il generale **Badoglio** e [Vittorio Emanulele III](notabili/Vittorio%20Emanulele%20III) firmarono l'**armistrizio** con gli **Alleati** l'**8 settembre 1943** e fuggirono a Brindisi, abbandonando gli italiani. Nel centro-nord si stabiliì la **Linea Gustav**, mentre al nord [Mussolini](notabili/Benito%20Mussolini) fondò la **Repubblica sociale italiana**, e i gruppi **partigiani** intensificarono la loro lotta anti-nazifascista, coordinati dal **CLN** *(Comitato di liberazione nazionale)*, e furono ricostituiti i partiti banditi dal [fascismo](eventi/fascismo).
+
+Nel **marzo** del **1944**, **Palmiro Togliatti** diede vita alla **svolta di Salerno**, e Ivanoe **Bonomi** prese il posto di **Badoglio**. [Roma](luoghi/Roma) fu liberata a **giugno** e ad **agosto** gli Alleati arrivarono a [Firenze](luoghi/Firenze). I partigiani si arrestarono sulla **Linea gotica**.
+
+[Milano](luoghi/Milano) fu liberata il **25 aprile 1945**, e [Benito Mussolini](notabili/Benito%20Mussolini) fu catturato e ucciso.
+
 ### La conclusione della guerra
+Alla fine del **1943**, dopo le conferenze di **Tehran** e **Casablanca**, la [Germania](luoghi/Germania) fu attaccata a est dalle forze sovietiche, e gli Alleati sbarcarono in **Normandia** il **6 giugno 1944**, e invasero i tedeschi, che subivano ingenti bombardamenti dal **1942**. 
+
+Il **7 giugno 1945** la [Germania](luoghi/Germania) firmò la **resa incondizionata**.
+
+Nel Pacifico, il presidente **Harry Truman** decise di usare la **bomba atomica** il **6 e 9 agosto 1945**. Il [Giappone](luoghi/Giappone) si arrese il **15 agosto 1945**
+
+Nacque l'**ONU**.
 
 # _La Guerra Fredda_
 
