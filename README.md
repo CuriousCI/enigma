@@ -1,5 +1,7 @@
 ## Indice
+- [altro](altro/README)
 - [analisi](analisi)
+- [autori](autori/README)
 - [database](database)
 - [altro...](altro)
 
@@ -231,14 +233,67 @@ Nacque l'**ONU**.
 # _La Guerra Fredda_
 
 ## 12 - La Guerra Fredda: dai trattati di pace alla morte di Stalin
+### La divisione del mondo
+Con le conferenze di **Yalta** e **Posdam** si era deciso di **dividere l'Europa** fra sovietici *(parte orientale)* e [Stati Uniti](luoghi/Stati%20Uniti), [Francia](luoghi/Francia) e Inghilterra nella parte occidentale, una vera e propria **cortina di ferro** fra capitalismo e comunismo. La **Guerra Fredda** iniziò nel **1949** con la corsa alle **armi nucleari**.
+
+Negli [Stati Uniti](luoghi/Stati%20Uniti) si sviluppò la **dottrina di Truman**, ovvero, il **contenimento** dell'espansione sovietica, per cui, fu varato il **Piano Marshall** che prevedeva lo stanziamento di prestiti per gli Stati che ne avessero fatto richiesta.
+
+**Berlino** e la [Germania](luoghi/Germania)  furono divise in **4 zone** di occupazione degli alleati, e fu data vita ad uno Stato unico nel **1948**-**1949**, la **Repubblica federale tedesca** *(RFT)*, e ad est fu creata la **Republica popolare tedesca** *(DDR)*.
+
+Nel **1949** i paesi europei entrarono a far parte della **NATO** con gli [Stati Uniti](luoghi/Stati%20Uniti), ed i comunisti risposero con il **Patto di Varsavia**, sotto il controllo dell'Urss.
+
+Ebbe inizio anche il processo di **decolonizzazione** per [Francia](luoghi/Francia) e Inghilterra, ed ebbe inizio anche il **progetto di unificazione europea**, con la creazione della CECA nel **1951**. I paesi comunisti istituirono il **Comecon** e **Cominform**.
+
+L'**America Latina** fu colpita da **regimi dittatoriali di stampo populista**.
+
+### Decolonizzazione e sconvolgimenti in Asia e in Africa
+Nel **1949** **Mao Zedong** proclamò la **Repubblica popolare cinese**, riconosciuta inizialmente solo dall'**Urss**. A questo punto, gli [Stati Uniti](luoghi/Stati%20Uniti) decisero di attaccare la **Corea**, divisa in **Corea del Nord** *(comunista)* e **Corea del Sud** *(filo occidentale)*. La linea di divisione fra i due paesi fu decisa sul **38° parallelo**.
+
+Dopo l'affermazione del **principio di autodeterminazione** dopo la [Prima guerra mondiale](eventi/Prima%20guerra%20mondiale) nacquero molti **partiti nazionalisti** in **Africa** e in **Asia** che putavano all'indipendenza. Nel **1947**, l'**India**, grazie alla lotta di **Gandhi**, divenne indipendente ma fu divisa, per motivi religiosi, in **Unione indiana** *(indù)* e il **Pakistan** *(musulmano)*. Altri paesi divennero indipendenti, come la **Birmania** nel **1948**, la **Malesia** nel **1957**, le **Filippine** nel **1946**, l'**Indonesia** nel **1950**, **Tunisia** nel **1956**, **Marocco** nel **1956**, **Libano**, **Siria** e l'**Egitto** nel **1922**.
+
+### Le origini del conflitto arabo-israeliano
+In Europa si sviluppò il **Sionismo** nel **1917** prevedendo la nascita di uno stato ebraico con il sostegno di **Balfour** in **Palestina**, per cui gli ebrei furono mondata in **Giordania**. L'arrivo degli ebrei fu visto dai palestinesi come un'invasione e ci furono forti **repressioni** dal **1936** al **1939** *(la Grande rivolta araba)*.
+
+Nel **maggio** del **1948** fu proclamata la nascita dello **Stato ebraico**, che fu subito attaccato da una lega di paesi arabi, fra cui Egitto, Arabia Saudita, Iraq, Giordani, Siria e Libano, che furono respinti. Lo **Stato d'Israele** fu ammesso nelle **Nazioni Unite** nel **1949**, ma gli Stati arabi lo considerano ancora un nemico.
 
 ## 13 - La "coesistenza pacifica" fra distensione e crisi
+### La Guerra Fredda negli anni di Krusciov e Kennedy
+Nel **1952** **Eisenhower** divenne presidente degli [Stati Uniti](luoghi/Stati%20Uniti) e nel **1953** **Stalin** morì. Eisenhower applicò la politica del **roll back** *(spingere indietro l'Unione Sovietica)*, mentre in **Unione Sovietica**, alla guida al partito prevalse **Nikita Krusciov** che nel **1956**, al XX congresso del **PCUS** *(Partito Comunista dell'Unione Sovietica)*, denunciò i crimini di **Stalin** e abbandonò la politica del terrore.
+
+La repressione nel **1956** della **rivolta in Ungheria** dimostrò che l'Unione Sovietica non aveva alcuna intenzione di alienare gli **Stati satellite**. La questione di **Berlino**  persistette: nel **1961** fu innalzato il **muro di Berlino**.
+
+Nel **1959**, a **Cuba** fu instaurato il governo **comunista** di **Fidel Castro** ed **Ernesto Che Guevara**, e ci fu la questione dei **missili cubani**, che portò alla contrattazione di **John Fitzgerald Kennedy** *(assassinato nel 1963)* e **Krusciov** *(destituito nel 1964)*.
+
+### Il nuovo protagonismo dell'Asia e dell'Africa
+%%TODO%%
 
 ## 14 - Trasformazioni e rotture: il Sessantotto
+### Il Sessantotto
+Dal **1950** al **1973** ci fu una **costante crescita economica** in tutto il mondo, venne rilanciato il **commercio internazionale** e aumentò la produzione agricola, con una **forte crescita demografica**, con la nascita della **società dei consumi**.
+
+In Europa si diffuse il **Welfare state** di **Keynes** *(sanità, istruzione e pensioni)*. Nel **1971** gli [Stati Uniti](luoghi/Stati%20Uniti) decisero la fine della convertibilità del dollaro in oro, e nel **1973** ci fu la **crisi petrolifera**.
+
+Nel **1964** fu occupata l'università americana di **Berkeley**: gli studenti protestavano contro il sistema universitario classista, contro la segregazione razziale, e contro la **guerra in Vietnam**. Si svilupparono nel frattempo il **movimento femminista**, e la lotta per i **diritti civili degli afroamericani** nonostante le uccisioni di **Malcom X** *(1965)* e di **Martin Luther King** *(1968)*.
+
+Con l'elezione di **Giovanni XXIII** nel **1958**, ci il **Concilio Vaticano II** nel **1962** e si concluse nel **1965** con papa **Paolo VI**: fu abbandonato il **latino**, e la Chiesa ne uscì con un'immagine rinnovata.
+
+In **Irlanda** ci fu la guerra civile per la questione Inglese e l'**Irlanda del Nord**. Nel **1968** in [Francia](luoghi/Francia) scoppiò la **rivolta studentesca**, con l'appoggio di operai e di impiegati, il **maggio francese**, ottenendo una riforma studentesca.
+
+In Urss salì al potere **Brežnev** con la politica di **centralismo economico e politico**, mentre i paesi satellite cercavano l'indipendenza, con le **vie nazionali del socialismo** *(come per la **primavera di Praga** nel **1968**)*, ma la **Cecoslovacchia** fu invasa, per timore che l'ideologia si diffondesse in altri paesi.
+
+### Il comunismo in Asia
+**Mao Zedung** lanciò dal **1965** al **1968** la **Rivoluzione culturale**, avendo come riferimento gli insegnamenti del **Libretto rosso**. Gli studenti formarono le **Guardie rosse**, che attaccarono tutto ciò che era considerato vecchio e contrario al cambiamento.
+
+In **Indocina** si rafforzarono i movimenti comunisti in **Vietname del Sud**. Nel timore che il movimento comunista **Vietcong** prendesse il potere, il presidente americano **Johnson** intervenne militarmente. Le operazioni iniziarono durarono dal **1964** al **1965** con pesanti bombardamenti del **Vietnam del Nord**. Nel **1968** gli americani subirono una pesante sconfitta, e il presidente **Nixon** decise di porre fine alla guerra. Nel **1973** fu siglato l'**accordo di Parigi**.
 
 ## 15 - Gli anni Settanta: la centralità delle periferie
+### Il Medio Oriente e la crisi petrolifera
+### Le dittature nel Sudamerica
 
 ## 16 - La fine della Guerra Fredda e del mondo bipolare
+### Il neoliberismo
+### La rivoluzione iraniana
+### Il crollo del sistema sovietico
 
 # _L'Italia repubblicana_
 

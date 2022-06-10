@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Battle_of_Frontiers_-_Map.jpg)",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,9 +104,9 @@
   "active": "83b28d6616e35d94",
   "lastOpenFiles": [
     "README.md",
+    "eventi/Prima guerra mondiale.md",
     "Untitled.md",
     "eventi/Seconda guerra mondiale.md",
-    "eventi/Prima guerra mondiale.md",
     "autori/Umberto Saba.md",
     "autori/Salvatore Quasimodo.md",
     "autori/Primo Levi.md",
