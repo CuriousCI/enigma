@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arnesi/Dizionario.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arnesi/Dizionario.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +103,8 @@
   },
   "active": "83b28d6616e35d94",
   "lastOpenFiles": [
-    "arnesi/Dizionario.md",
     "README.md",
+    "arnesi/Dizionario.md",
     "eventi/Prima guerra mondiale.md",
     "Untitled.md",
     "eventi/Seconda guerra mondiale.md",

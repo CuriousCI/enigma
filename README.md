@@ -288,6 +288,7 @@ In **Indocina** si rafforzarono i movimenti comunisti in **Vietname del Sud**. N
 
 ## 15 - Gli anni Settanta: la centralità delle periferie
 ### Il Medio Oriente e la crisi petrolifera
+%%TODO%%
 ### Le dittature nel Sudamerica
 
 ## 16 - La fine della Guerra Fredda e del mondo bipolare
