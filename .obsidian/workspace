@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "83b28d6616e35d94",
+        "id": "9b35dbf64032cad3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "be9ef2b7c0a021fe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "eventi/Prima guerra mondiale.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -98,20 +85,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 524,
     "collapsed": true
   },
-  "active": "83b28d6616e35d94",
+  "active": "9b35dbf64032cad3",
   "lastOpenFiles": [
     "README.md",
-    "arnesi/Dizionario.md",
-    "eventi/Prima guerra mondiale.md",
-    "Untitled.md",
-    "eventi/Seconda guerra mondiale.md",
-    "autori/Umberto Saba.md",
-    "autori/Salvatore Quasimodo.md",
-    "autori/Primo Levi.md",
-    "autori/Luigi Pirandello.md",
-    "autori/Italo Svevo.md"
+    "altro/Seconda guerra mondiale Barbero.md",
+    "altro/README.md",
+    "altro/Prima guerra mondiale Barbero.md",
+    "altro/pena di morte.md",
+    "altro/hacking.md",
+    "altro/Costituzione.md",
+    "altro/Constituția.md",
+    "altro/Assemblea Costituente.md",
+    "autori/Carlo Collodi.md"
   ]
 }

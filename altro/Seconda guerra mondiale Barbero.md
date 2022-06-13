@@ -1,0 +1,8 @@
+# La Seconda guerra mondiale
+Le uniche note allegre per la Seconda guerra mondiale le mette la partecipazione dell'Italia. Si dice che sia scoppiata nel **1919** quando fu firmato il **Trattato di Versailles**, e anche l'Italia vincitrice è sprofondata nella guerra civile. La Germania è uscita frustrata, dovendo cedere i territori ad un nuovo paese *(fra cui la Polonia)*, e si sono create delle situazioni ingestibili *(come nel caso di Danzica, la città libera, nonostante fosse tutta abitata da tedeschi, e si sviluppa un "irredentismo tedesco")*. L'Impero austriaco fu diviso in molte nazioni, fra cui, l'Austria che si sente maggiormente tedesca. 
+
+Hitler va al potere nel **1933** con il punto principale per cui bisogna rivedere il trattato di Versailles. C'è la storia di una **doppia illusione**: una delle potenze democratiche per cui si potessero dare certe concessione a Hitler senza provocare grandi scoinvolgimenti. L'altra illusione è quella di Hitler di riprendersi tutto e qualcosa di più senza che nessuno si opponga sul serio. L'**illusione delle democrazie occidentali**.
+
+Il **19 novembre 1937**, il ministro degli esteri inglese incontra Hitler, ed esprime simpatia per le rivendicazioni tedesche, e con il tempo sono possibili delle modifiche, senza provacare scoinvolgimenti *(Lord Hallifax)*. La Germania era il baluardo dell'Europa **contro il bolscevismo**.
+
+Nell'Unione Sovietica, per i politici occidentali, è ancora il paese dei rivoluzionari bolscevichi rivoluzionari, da tenere alla lontana, per cui, in Inghilterra e in Francia *(dove c'è una forte impronta comunista)* si credeva che la Germania di Hitler fosse un paese utile.
