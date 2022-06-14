@@ -306,3 +306,68 @@
 **ameno**
 - piacente, ridente
 - allegro, divertente
+
+**trina**
+- ricamato, traforato, eseguito su fondo di tessuto che, nell'aspetto, ricorda la trina di punto
+
+**vispo**
+- pronto, svelto, brioso e vivace sia nel fisico che nei modi
+
+**miriagrammo**
+- 10000 grammi (miria- unità di misura)
+
+**disinvolto**
+- privo di timidezza, spigliato
+- privo di scrupoli
+
+**traversina**
+- traversa
+- traversa di binario
+
+**proscenio**
+- parte anteriore del palcoscenico
+
+**bieco**
+- obliquo, torvo
+- sinistro, minaccioso, turpe
+
+**rabbruscare**
+- turbare, offuscare, annuvolare,  offuscare in volto
+
+**baruffa**
+- litigio confuso e rumoroso *(piccole baruffe)*
+
+**scapestreria**
+- condurre una vita sregolata
+
+**aggrottato**
+- corrugato, corruciato *(espressione aggrottata, ciglia aggrottate)*
+
+**mozzo**
+- che è stato privato di una parte terminale
+- disginuto, separato
+
+**calcina**
+- pietra calcare
+- malta
+
+**ossequiente**
+- che porta ossequio, lo dimostra
+- ubbidiente e rispettoso
+
+**ossequio**
+- profondo rispoetto verso le persone e le istituzioni
+- rivererente saluto
+
+**ligio**
+- nel diritto feudale, detto del vassallo legato al suo signore
+- che è strettamente legato ad una persona, a interessi e sim.
+- scrupolosamente fedele
+
+**apogeo**
+- punto più lontano della Terra 
+- culmine
+
+**autarchia**
+- padronanza, dominio di se
+- capacita' degli enti pubblici di amministrare
