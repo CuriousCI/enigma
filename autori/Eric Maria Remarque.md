@@ -1,6 +1,6 @@
 # Eric Maria Remarque
 ## Vita
-Combatté nella [Prima guerra mondiale](Prima%20guerra%20mondiale.md)
+Combatté nella [Prima guerra mondiale](../eventi/Prima%20guerra%20mondiale.md)
 **22 giugno 1898**
 **25 settembre 1970**
 
