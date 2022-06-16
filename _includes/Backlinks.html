@@ -75,6 +75,7 @@
         <!--
         This code is to show other pages (note under collection) as Backlink. 
         Disabled as I don't see a need for this right now. 
+
         {%- for note in site.pages -%}
         {%- if note.url != page.url -%}
             {%- if note.content contains wiki_link_title -%}
@@ -85,6 +86,7 @@
             {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
+
         -->
     </div>
     <br/>
