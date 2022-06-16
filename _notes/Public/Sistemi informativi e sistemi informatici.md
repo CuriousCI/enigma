@@ -1,4 +1,9 @@
-# Sistemi informativi e sistemi informatici
+---
+title: Sistemi informativi e sistemi informatici
+feed: show
+date: 16-06-2022
+---
+
 Bisogna fare una distinzione:
 - **dato**: valore misurato *(altezza)*
 - **informazione**: si ottiene dall'elaborazione dei **dati** *(il più alto)*

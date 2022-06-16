@@ -1,4 +1,9 @@
-# Il modello relazionale
+---
+title: Il modello relazionale 
+feed: show
+date: 16-06-2022
+---
+
 %% Tutta robba prima%%
 
 ## Normalizzazione di un database

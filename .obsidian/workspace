@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/Belle Époque.md",
+            "file": "_notes/Public/altro/Seconda guerra mondiale Barbero.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/Storia.md",
+            "file": "_notes/Public/Barbero.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Storia.md",
+                "file": "_notes/Public/Barbero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "942dd8034a2bc5f8",
   "lastOpenFiles": [
-    "_notes/Public/Storia.md",
+    "_notes/Public/Barbero.md",
+    "_notes/Public/altro/Seconda guerra mondiale Barbero.md",
+    "_notes/Public/altro/Prima guerra mondiale Barbero.md",
     "_notes/Public/Belle Époque.md",
-    "_notes/Public/Aldo Moro.md",
-    "_notes/Public/Geografia.md",
-    "_notes/Public/Positivismo.md",
-    "_notes/Public/Fordismo.md",
-    "_notes/Public/Taylorismo.md",
-    "_notes/Public/Europa.md",
-    "README.md",
-    "_notes/Public/Welcome to the garden.md"
+    "_notes/Public/altro/pena di morte.md",
+    "_notes/Public/altro/hacking.md",
+    "_notes/Public/altro/Costituzione.md",
+    "_notes/Public/altro/Constituția.md",
+    "_notes/Public/altro/Assemblea Costituente.md",
+    "_notes/Public/Sistemi informativi e sistemi informatici.md"
   ]
 }
