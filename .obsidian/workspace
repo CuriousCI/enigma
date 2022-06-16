@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/Storia.md",
+            "file": "_posts/2020-03-01-how-to.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Storia.md",
+                "file": "_posts/2020-03-01-how-to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "9b35dbf64032cad3",
   "lastOpenFiles": [
-    "_notes/Public/Storia.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Credits.md",
-    "_notes/Public/eventi/belle epoque.md",
-    "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md",
-    "Hidden Note.md",
+    "_posts/2020-03-01-features.md",
+    "pages/404.md",
+    "pages/posts.md",
     "pages/notes.md",
     "pages/lists.md",
-    "pages/index.md"
+    "pages/index.md",
+    "Pasted image 20220616113924.png",
+    "_notes/Public/Credits.md",
+    "_notes/Public/Storia.md"
   ]
 }

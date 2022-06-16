@@ -1,7 +1,7 @@
 ---
 title: Storia
+feed: show
 date: 16-06-2022
-format: post
 ---
 
 # _Il tramonto dell'eurocentrismo_
