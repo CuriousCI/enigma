@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/eventi/belle epoque.md",
+            "file": "_notes/Public/Belle Époque.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/eventi/belle epoque.md",
+                "file": "_notes/Public/Storia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +101,11 @@
     "width": 524,
     "collapsed": true
   },
-  "active": "9b35dbf64032cad3",
+  "active": "a1025c9c76017e91",
   "lastOpenFiles": [
-    "_notes/Public/eventi/belle epoque.md",
-    "_notes/Public/Europa.md",
     "_notes/Public/Storia.md",
+    "_notes/Public/Belle Époque.md",
+    "_notes/Public/Europa.md",
     "README.md",
     "_notes/Public/Welcome to the garden.md",
     "pages/index.md",

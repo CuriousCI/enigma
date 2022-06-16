@@ -4,11 +4,13 @@ feed: show
 date: 16-06-2022
 ---
 
+*"La **Storia**, progettare il futuro"*; il **Novecento** e l'età attuale di [Alessandro Barbero](https://open.spotify.com/show/2G4tqGffDNWKTU5oYQRg1W), Chiara Frugoni e Carla Sclarandis. Alcune *riflessioni* sono ricavate dalle lezioni del professore [Piero Morpurgo](http://www.pieromorpurgo.com/), nonostante la *struttura* e i *contenuti* siano per la maggior parte una sinstesi del manuale citato.
+
 # _Il tramonto dell'eurocentrismo_
 
 ## 1 - La _belle epoque_ tra luci e ombre
 ### Urbanizzazione e società
-La [[belle epoque]] va dalla finde del **1800** all'inizio del **1900**, ed è caratterizzata da _"benessere e spensieratezza"_. Grazie allo sviluppo del [[Positivismo]], si diffusero l'**elettricità** _(illuminazione pubblica)_ e nuovi **mezzi** _(bici, tram, automobili)_. Si svilupparono i **vaccini** _(colera, vaiolo, rabbia)_ e la **sterilizzazione**.
+La [[Belle Époque]] va dalla finde del **1800** all'inizio del **1900**, ed è caratterizzata da _"benessere e spensieratezza"_. Grazie allo sviluppo del [[Positivismo]], si diffusero l'**elettricità** _(illuminazione pubblica)_ e nuovi **mezzi** _(bici, tram, automobili)_. Si svilupparono i **vaccini** _(colera, vaiolo, rabbia)_ e la **sterilizzazione**.
 
 Si sviluppò il **tempo libero** _(attività sportive, turismo etc...)_, assieme ai **grandi magazzini**, da cui il [[Taylorismo]] e il [[Fordismo]]
 
