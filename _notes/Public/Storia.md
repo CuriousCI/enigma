@@ -10,36 +10,34 @@ date: 16-06-2022
 
 ## 1 - La _belle epoque_ tra luci e ombre
 ### Urbanizzazione e società
-La [[Belle Époque]] va dalla finde del **1800** all'inizio del **1900**, ed è caratterizzata da _"benessere e spensieratezza"_. Grazie allo sviluppo del [[Positivismo]], si diffusero l'**elettricità** _(illuminazione pubblica)_ e nuovi **mezzi** _(bici, tram, automobili)_. Si svilupparono i **vaccini** _(colera, vaiolo, rabbia)_ e la **sterilizzazione**.
-
-Si sviluppò il **tempo libero** _(attività sportive, turismo etc...)_, assieme ai **grandi magazzini**, da cui il [[Taylorismo]] e il [[Fordismo]]
+La [[Belle Époque]] (**1871**-**1914**) fu caratterizzata da "benessere e spensieratezza" poiché, grazie allo sviluppo del [[Positivismo]], si diffusero l'**elettricità** _(illuminazione pubblica)_ e nuovi **mezzi** _(bici, tram, automobili)_, si svilupparono i **vaccini** _(contro colera, vaiolo, rabbia)_ e la **sterilizzazione**. Si sviluppò il concetto di **tempo libero** _(attività sportive, turismo)_, e, dal punto di vista economico, i grandi magazzini, il [[Taylorismo]] ed il [[Fordismo]].
 
 ### La politica di massa
-Le **masse** _(dei lavoratori)_ divennero sempre più importanti per la vita politica e sociale, chiedendo il **suffraggio universale maschile**, attraverso i **sindacati** ed i [[partiti]] di massa _(con l'organizzazione in congressi, e forti basi ideologiche)_. I [[partiti]] socialisti operarono per i lavoratori _(stipendi migliori, assicurazioni per infortuni, lavoro minorile e femminile etc...)_.
+Le **masse** _(i lavoratori del [Quarto Stato](https://artsandculture.google.com/asset/the-fourth-estate/9AExoJykUS5d5g?hl=en-GB) di  Giuseppe Pellizza da Volpedo)_ divennero sempre più importanti per la vita politica e sociale: venne concesso da sempre più governi il **suffraggio universale maschile** *(nel **1912** da [[Giovanni Giolitti]] in [[Italia]])*, grazie al contributo di sindacati e partiti di massa _(con l'organizzazione in congressi, e forti basi ideologiche)_. 
 
-**Leone XIII**, nel **1891** pubblicò l'enciclica [[Rerum Novarum]], ma, nel **1903**, **Pio X** si scagliò contro il **modernismo**, [[Fin dalla prima]].
+I socialisti operarono per i lavoratori _(stipendi migliori, assicurazioni per infortuni, lavoro minorile e femminile etc...)_. In risposta, nel **1891** **Leone XIII** pubblicò l'enciclica [[Rerum Novarum]], e nel **1903** **Pio X** si scagliò contro il **modernismo** pubblicando [[Fin dalla prima]].
 
-Fu forte la resistenza contro le **suffraggette** che chiedevano il [suffraggio universale](eventi/suffraggio%20universale).
+Fu forte anche la resistenza contro le **suffraggette** ed il suffraggio universale.
 
 ### L'emigrazione dall'Europa
-Un crisi di **sovrapproduzione** _(come quella del [1929](eventi/1929))_ portò all'**emigrazione** in **America** _(dove si trovava povertà, sfruttamento, e discriminazione, come in [Sacco e Vanzetti](opere/Sacco%20e%20Vanzetti))_
+Un crisi di **sovrapproduzione** _(come quella del [1929](eventi/1929))_ portò all'**emigrazione** in **America** _(dove gli immigrati si scontravano con povertà, sfruttamento, e discriminazione: il film [[Sacco e Vanzetti]] descrive egregiamente le vicende di due **anarchici italiani** negli [[Stati Uniti]])_.
 
 ## 2 - Vecchi imperi e potenze nascenti
 ### Le tensioni fra gli Stati europei
-Nel **1890** circa, [Guglielmo II](notabili/Guglielmo%20II) pose **fine** al cancellierato di [Bismark](notabili/Bismark) e alla **politica dell'equilibrio**. [Guglielmo II](notabili/Guglielmo%20II) voleva il **primato economico e coloniale**. Tra il **1902** e il **1911** l'industria tedesca crebbe a dismisura, facendo **competizione** alla Gran Bretagna. I tentativi di prendere il **Marocco** scatenarono la rivalità con la [Francia](luoghi/Francia) che stava passando il periodo dell'[Affaire Dreyfus](eventi/Affaire%20Dreyfus.md), e la Germania riuscì a prendersi una parte del **Congo**.
+[[Guglielmo II]]  nel **1890**  pose fine al cancellierato di [Bismark](notabili/Bismark) e alla **politica dell'equilibrio** con lo scopo di raggiungere il **primato economico** e coloniale. Tra il **1902** e il **1911** l'**industria tedesca** crebbe a dismisura, facendo competizione alla Gran Bretagna. 
 
-Con l'[incidente di Fashoda](eventi/incidente%20di%20Fashoda) del **1898**, la [Francia](luoghi/Francia) e la Gran Bretagna riuscirono a stipulare l'[Entente Cordiale](eventi/Entente%20Cordiale) nel **1904**
+I tentativi tedeschi di conquistare il **Marocco** scatenarono la rivalità con la [Francia](luoghi/Francia) che in quel momento stava affrontando la crisi dell'[[Affaire Dreyfus]] *(affrontato da [[Hannah Arendt]] nel libro [[Le origini del totalitarismo]])*. Nonostante le contese, la Germania riuscì a conquistare parte del **Congo**. Sempre per quanto riguarda la questione africana, grazie all'[[incidente di Fashoda]] del **1898**, la Francia e la Gran Bretagna riuscirono a stipulare l'[[Entente Cordiale]] nel **1904**
 
-Nel **1882** fu formata la **Triplice alleanza**, fra [Impero austro-ungarico](luoghi/Impero%20austro-ungarico), [Germania](luoghi/Germania) e [Italia](luoghi/Italia), mentre [Nicola II](notabili/Nicola%20II) in Russia, a causa di una rivoluzione del **1905** concesse più diritti democratici \*(anche dopo la sconfitta contro il Giappone del **1905\***). In seguito, nel **1907**, fu stipulata la **Triplice intesa** fra [Francia](luoghi/Francia), [Russia](luoghi/Russia) e [Gran Bretagna](luoghi/Gran%20Bretagna).
+Nel **1882** fu formata la **Triplice alleanza**, fra Impero austro-ungarico, Germania e Italia, mentre  in Russia [[Nicola II]], a causa di una rivoluzione del **1905** e della sconfitta contro il Giappone, concesse più diritti *(fra cui la Duna ed i Soviet)* democratici al popolo *(rivendicandoli in seguito)*. Nel **1907** fu stipulata la **Triplice intesa** fra Francia, Russia e Gran Bretagna.
 
 ### L'imperialismo dei paesi extraeuropei
 Dal **1868** il **Giappone** divenne una potenza industriale, basata sul modello occidentale, dimostrando la sua potenza nella battaglia per il controllo della **Manciuria** nel **1904-1905** contro la Russia.
 
-In **Cina**, invece, ci fu una rivoluzione nel **1912** che segnò la fine dell'impero, e l'inizio della repubblica.
+In **Cina** ci fu una rivoluzione nel **1912** che segnò la fine dell'impero e l'inizio della repubblica.
 
-Anche gli **Stati Uniti** ebbero un'importante crescita, ed il **corollario Roosevelt** prese avvio una **politica imperialistica** nel continente americano e nell'area del Pacifico, con la creazione di **zone di influenza** _(Cuba, Panama, Portorico, Filippine etc...)_.
+Anche gli **Stati Uniti** ebbero un'importante crescita, ed il **corollario Roosevelt** prese avvio una **politica imperialistica** nel continente americano e nell'area del Pacifico, con la creazione di zone di influenza _(Cuba, Panama, Portorico, Filippine etc...)_.
 
-## 3 - L'[Italia](luoghi/Italia) giolittiana
+## 3 - L'Italia giolittiana
 ### Giolitti e il conflitto sociale
 Per l'[Italia](luoghi/Italia) la **fine** del **1800** fu un periodo di **crisi politica e sociale**, che iniziò con la sconfitta di **Adua** nel **1896** in Africa, e la politica del **pareggio di bilancio** _(che aveva costretto i governi ad aumentare le tasse)_, condizioni che portarono a manifestazioni represse in maniera violenta _(come nel caso del massacro di [Bava Beccaris](notabili/Bava%20Beccaris) del **1898** a Milano)_.
 
