@@ -6,9 +6,8 @@ date: 16-06-2022
 
 *"La **Storia**, progettare il futuro"*; il **Novecento** e l'età attuale di [Alessandro Barbero](https://open.spotify.com/show/2G4tqGffDNWKTU5oYQRg1W), Chiara Frugoni e Carla Sclarandis. Alcune *riflessioni* sono ricavate dalle lezioni del professore [Piero Morpurgo](http://www.pieromorpurgo.com/), nonostante la *struttura* e i *contenuti* siano per la maggior parte una sinstesi del manuale citato.
 
-# _Il tramonto dell'eurocentrismo_
-
-## 1 - La _belle epoque_ tra luci e ombre
+# Il tramonto dell'eurocentrismo
+## 1 - La Belle Époque tra luci e ombre
 ### Urbanizzazione e società
 La [[Belle Époque]] (**1871**-**1914**) fu caratterizzata da "benessere e spensieratezza" poiché, grazie allo sviluppo del [[Positivismo]], si diffusero l'**elettricità** _(illuminazione pubblica)_ e nuovi **mezzi** _(bici, tram, automobili)_, si svilupparono i **vaccini** _(contro colera, vaiolo, rabbia)_ e la **sterilizzazione**. Si sviluppò il concetto di **tempo libero** _(attività sportive, turismo)_, e, dal punto di vista economico, i grandi magazzini, il [[Taylorismo]] ed il [[Fordismo]].
 
@@ -56,7 +55,7 @@ Gli italiani commisero moltissime **atrocità** per contrastare la resistenza li
 
 [Giovanni Giolitti](Giovanni%20Giolitti.md) rassegnò le **dimissioni** nel **marzo** del **1914**, e fu sostituito da **Antonio Salandra**, che dovette affrontare le proteste della **settimana rossa** fra il **7** e il **14 giugno 1914** nell'[Italia](Italia.md) centro-settentionale con una spietata repressione.
 
-# _La Grande Guerra e le sue eredità_
+# La Grande Guerra e le sue eredità
 ## 4 - La Prima guerra mondiale
 ### Le cause del conflitto
 Ci sono diversi **fattori** che all'inizio del Novecento scatenarono la Proma guerra mondiale:
@@ -135,7 +134,7 @@ L'ex socialista [Benito Mussolini](Benito%20Mussolini.md) instaurò il movimento
 
 [Vittorio Emanulele III](Vittorio%20Emanulele%20III.md) avrebbe potuto reprimere facilmente la rivolta, ma decise di **affidare il governo** al [fascismo](fascismo.md), che confermò la sua **avversione** verso le istituzioni **democratiche** e **liberali**.
 
-# _Dal primo dopoguerra alla Seconda guerra mondiale_
+# Dal primo dopoguerra alla Seconda guerra mondiale
 ## 7 - L'[Italia](Italia.md) fascista
 ### L'instaurazione della dittatura
 [Benito Mussolini](notabili/Benito%20Mussolini) fu nominato **presidente del consiglio** nel **1922**, e, il **3 dicembre 1922** fece approvare la **Legge dei pieni poteri**, e vennero create due istituzioni: il **Gran Consiglio del [Fascismo](eventi/fascismo)** e la **Milizia Voontaria per la sicurezza Nazionale** nel **1923**.
@@ -229,8 +228,7 @@ Nel Pacifico, il presidente **Harry Truman** decise di usare la **bomba atomica*
 
 Nacque l'**ONU**.
 
-# _La Guerra Fredda_
-
+# La Guerra Fredda
 ## 12 - La Guerra Fredda: dai trattati di pace alla morte di Stalin
 ### La divisione del mondo
 Con le conferenze di **Yalta** e **Posdam** si era deciso di **dividere l'Europa** fra sovietici *(parte orientale)* e [Stati Uniti](luoghi/Stati%20Uniti), [Francia](luoghi/Francia) e Inghilterra nella parte occidentale, una vera e propria **cortina di ferro** fra capitalismo e comunismo. La **Guerra Fredda** iniziò nel **1949** con la corsa alle **armi nucleari**.
@@ -297,14 +295,52 @@ In **Indocina** si rafforzarono i movimenti comunisti in **Vietname del Sud**. N
 ### La rivoluzione iraniana
 ### Il crollo del sistema sovietico
 
-# _L'Italia repubblicana_
-
+# L'Italia repubblicana
 ## 17 - Dalla costituente all'"autunno caldo"
+### La nascita della Repubblica italiana
+Nonostante la Resistenza contro i nazifasciti l'Italia si annoverò fra i paesi sconfitti nella [[Seconda guerra mondiale]], e fu il democristiano **Alcide De Gasperi** che riuscì a limitare le sanzioni. Il **2 giugno 1946** furono indetti un referendum a suffraggio universale per decidere la forma di governo che l'Italia avrebbe dovuto adottare a seguito del conflitto e le elezioni per l'[[Assemblea Costituente]]. 
+
+Il **1 gennario 1948** fu promulgata ed entrò in vigore la **Costituzione** italiana, garantendo pluralismo, libertà d'espressione, divisione dei poteri e la sovranità nelle mani del popolo *(uno Stato **concordatario**, e non laico)*.
+
+### La ricostruzione e il *boom* economico
+Il **18 aprile 1948** la Democrazia cristiana vinse le elezioni *(sistema proporzionale puro con preferenze per la Camera, sistema maggioritario con i collegi per il Senato)* contro il Fronte popolare dei partiti di sinistra. Fu istituita la **Cassa per il Mezzogiorno** *(per potenziare l'industria meridionale)* e varie altre riforme che non diedero i risultati sperati. 
+
+L'Italia partecipò al [[Piano Marshall]] e aderì al [[Patto atlantico]] e contribuì all'integrazione europea aderendo nel **1951** alla **CECA** e nel **1957** alla **CEE**.
+
+Negli anni Cinquanta lo scenario politico italiano divenne molto interessante: dato che i consensi verso la DC stavano diminuendo, il partito fu costretto a varare una legge elettorale di tipo maggioritario con premio di maggioranza *(il 65% dei seggi per chi avesse ottenuto il 50% + 1 dei voti)*, la **legge truffa** del **1953**, che fu abrogata nel **1954** *(vari partiti cercarono di formare una coalizione per ottenere il premio, ma la maggioranza assoluta non fu raggiunta)*.
+
+Dal **1958** al **1963** il paese conobbe uno sviluppo economico senza precedenti, il celebre ***boom* economico**, in particolare per le regioni del Nord, per cui, dal **1950** al **1970** sopreggiunse un fenomeno di **emigrazione interna** dal Sud al Nord e verso il Belgio *(a riguardo è noto il film "Marina")*, la Svizzera e la Germania.
+
+Nonostante le riforme dei governi che si susseguirono negli anni Sessanta *(la coalizione fra la DC di Aldo Moro ed i socialisti, lo scandalo di Tambroni e il Movimento Sociale Italiano neofascista, la riforma della scuola media)*, anche in Italia scoppiò la **protesta studentesca** del **1968**, che sfociò nel **1969** nell'**autunno caldo**, caratterizzato dagli scontri fra operai e industriali, e della pubblicazione della legge 300 del **1970**, lo **Statuto dei lavoratori**.
+
 
 ## 18 - Dagli "anni di piombo" a Tangentopoli
+### Il terrorismo politico
+A seguito dell'autunno caldo in Italia cominciò il periodo degli "anni di piombo" dominati dal terrorismo delle correnti radicali di entrambi i lati dello spettro politico. Il **12 dicembre 1969** ci fu la **strage di piazza Fontana** a Milano: una bomba posta da militanti neofascisti all'interno della Banca dell'Agricolutra causò 17 morti e 88 feriti. Sussegurono altri attentati nel **1970**, nel **1974** e nel **1980** *(alla stazione di Bologna)*.
 
-# _Il mondo multipolare_
+Nel **1970** fu approvata la **legge sul divorzio**, fu liberalizzato l'ingresso all'università, fu promulgato lo Statuto dei lavoratori e furono istituite le Regioni. In quegli anni anche l'Italia subì le conseguenze della crisi petrolifera.
 
+Di fronte a queste difficoltà, il segretario del [[PCI]], [[Enrico Berlinguer]] si fece interprete della politica del **compromesso storico** con il Democristiano [[Aldo Moro]] che fu vittima del **terrorismo di sinistra** il **16 marzo 1978**, stesso anno in cui fu eletto **Sandro Pertini** *(ex partigiano)* **presidente della Repubblica**.
+
+### La crisi del 1992-1993
+Gli anni Ottanta furono caratterizzati da un aumento della **criminalità organizzata** *(con l'uccisione del generale Dalla Chiesa e la scoperta della loggia massonica P2)*. 
+
+Nel **1983** divenne capo del Governo **Bettino Craxi** *(leader socialista)*, noto per la revisione dei [[Patti Lateranensi]] nel **1984**. Nel **1991** il [[PCI]] si scisse in Partito democratico e Rifondazione comunista.  Nel **1992** scoppiò lo scandalo di **Tangentopoli**, mettendo a fuoco un sistema di corruzione fra politici e imprenditori, per cui, nelle elezioni del **1994** si formò una nuova classe politica.
+
+Il **23 maggio** del **1992** venne ucciso **Giovanni Falcone**, e il **19 luglio 1992**  **Paolo Borsellino**.
+
+# Il mondo multipolare
 ## 19 - L'egemonia mondiale degli Stati Uniti
+### La dissoluzione dei regimi comunisti
+Nel **1991** l'**Urss** si disgregò in **15 repubbliche indipendenti**, per cui gli Stati Uniti divennero l'unica superpotenza mondiale, e si susseguirono negli anni i presidentei repubblicani Reagan e Bush, che riuscirono a risolvere una serie di problemi economico sociali. Nel **1992** fu eletto Bill Clinton che rilanciò l'economia, e si impose come **difensore della democrazia** *(per la politica dottrina di Monroe del **1823**)*.
+
+%%TODO%%
+
+### L'unificazione europea
+### Il Medio Oriente, scenario di conflitti globali
+### La globalizzazione
 
 ## 20 - Il mondo attuale
+### Il Medio Oriente islamico e il terrorismo in Europa
+### L'Europa e le sue crisi
+### Le migrazioni
