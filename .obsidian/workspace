@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "a20c48b82b0305a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b35dbf64032cad3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Public/Storia.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a8f9c2166623fb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98cd828a16eeaeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "000a24e3c1e80924",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24b0df5bc6dba531",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336
+  },
+  "right": {
+    "id": "0b78080fc720ee34",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ca788b30530474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90dc033ebada6c9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Public/Storia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 524,
+    "collapsed": true
+  },
+  "active": "9b35dbf64032cad3",
+  "lastOpenFiles": [
+    "_notes/Public/Storia.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/eventi/belle epoque.md",
+    "_posts/2020-03-01-features.md",
+    "_posts/2020-03-01-how-to.md",
+    "Hidden Note.md",
+    "pages/notes.md",
+    "pages/lists.md",
+    "pages/index.md"
+  ]
+}

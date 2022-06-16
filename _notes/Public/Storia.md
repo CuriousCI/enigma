@@ -1,22 +1,21 @@
-## Indice
-- [altro](altro/README)
-- [analisi](analisi)
-- [autori](autori/README)
-- [database](database)
-- [altro...](altro)
+---
+title: Storia
+date: 16-06-2022
+format: post
+---
 
 # _Il tramonto dell'eurocentrismo_
 
 ## 1 - La _belle epoque_ tra luci e ombre
 ### Urbanizzazione e società
-La [belle epoque](eventi/belle%20epoque) va dalla finde del **1800** all'inizio del **1900**, ed è caratterizzata da _"benessere e spensieratezza"_. Grazie allo sviluppo del [Positivismo](idee/Positivismo), si diffusero l'**elettricità** _(illuminazione pubblica)_ e nuovi **mezzi** _(bici, tram, automobili)_. Si svilupparono i **vaccini** _(colera, vaiolo, rabbia)_ e la **sterilizzazione**.
+La [[belle epoque]] va dalla finde del **1800** all'inizio del **1900**, ed è caratterizzata da _"benessere e spensieratezza"_. Grazie allo sviluppo del [[Positivismo]], si diffusero l'**elettricità** _(illuminazione pubblica)_ e nuovi **mezzi** _(bici, tram, automobili)_. Si svilupparono i **vaccini** _(colera, vaiolo, rabbia)_ e la **sterilizzazione**.
 
-Si sviluppò il **tempo libero** _(attività sportive, turismo etc...)_, assieme ai **grandi magazzini**, da cui il [Taylorismo](idee/Taylorismo) e il [Fordismo](idee/Fordismo)
+Si sviluppò il **tempo libero** _(attività sportive, turismo etc...)_, assieme ai **grandi magazzini**, da cui il [[Taylorismo]] e il [[Fordismo]]
 
 ### La politica di massa
-Le **masse** _(dei lavoratori)_ divennero sempre più importanti per la vita politica e sociale, chiedendo il **suffraggio universale maschile**, attraverso i **sindacati** ed i [partiti](politica/partiti) di massa _(con l'organizzazione in congressi, e forti basi ideologiche)_. I [partiti](politica/partiti) socialisti operarono per i lavoratori _(stipendi migliori, assicurazioni per infortuni, lavoro minorile e femminile etc...)_.
+Le **masse** _(dei lavoratori)_ divennero sempre più importanti per la vita politica e sociale, chiedendo il **suffraggio universale maschile**, attraverso i **sindacati** ed i [[partiti]] di massa _(con l'organizzazione in congressi, e forti basi ideologiche)_. I [[partiti]] socialisti operarono per i lavoratori _(stipendi migliori, assicurazioni per infortuni, lavoro minorile e femminile etc...)_.
 
-**Leone XIII**, nel **1891** pubblicò l'enciclica [Rerum Novarum](opere/Rerum%20Novarum), ma, nel **1903**, **Pio X** si scagliò contro il **modernismo**, [Fin dalla prima](opere/Fin%20dalla%20prima.md).
+**Leone XIII**, nel **1891** pubblicò l'enciclica [[Rerum Novarum]], ma, nel **1903**, **Pio X** si scagliò contro il **modernismo**, [[Fin dalla prima]].
 
 Fu forte la resistenza contro le **suffraggette** che chiedevano il [suffraggio universale](eventi/suffraggio%20universale).
 
