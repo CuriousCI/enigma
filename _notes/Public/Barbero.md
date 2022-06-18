@@ -1,7 +1,7 @@
 ---
 title: Alessandro Barbero e la storia
 feed: show
-date: 16-06-2022
+date: 17-06-2022
 ---
 # Come iniziano le guerre
 ## La Prima guerra mondiale
@@ -62,4 +62,16 @@ Anche la Polonia si prese un pezzo di Cecoslovacchia, e credono di essere amici 
 
 Fra **gennaio** e **marzo** del **1939** la **Cecoslovacchia** si sfascia, e la Slovacchia vuole diventare indipendente, e la Cecoslovacchia sta per essere invasa dall'Ungheria. Il **14 marzo 1939** Hitler ordina al presidente cecoslovacco di venire a parlargli a Berlino, e all'alba del **15 marzo** Hitler lo informa che l'esercito tedesco invaderà la Cecoslovacchia. Neanche questa volta non interviene nessuno.
 
-Il **25 marzo 1939** Hitler presenta la domanda di annessione al della città libera di **Danzica** alla Polonia
+Il **25 marzo 1939** Hitler presenta la domanda di annessione al della città libera di **Danzica** alla Polonia, e la Polonia rifiuta. A questo punto il governo inglese e il governo francese propongono ai polacchi un trattato di alleanza. Sui giornali escono i titoloni: **"Morire per Danzica? NO!"**.
+
+Nell'**aprile-maggio** del **1939** provano a fare un accordo di difesa militare con l'Unione Sovietica, ma era chiaro che nessuno lo voleva fare realmente un trattato, e Stalin decide di tirarsi fuori, informando i tedeschi che aprire un negoziato sarebbe una buona idea. Il **22 maggio 1939** fu firmato il **Patto d'acciaio**, ma Mussolini è preoccupato perché l'Italia in quel momento è completamente priva di risorse, dopo l'intervento in Spagna e la guerra in Etiopia. Le guerre costano delle cifre terrificanti. Non c'era più un soldo per armi moderne *(tutti i paesi stavano sperimentando nuove armi, avendo intuto il clima bellico che stavano per affrontare)*.
+
+Il **1 agosto 1939** **Galeazzo Ciano** *(ministro degli esteri, genero di Mussolini)* annota nel diario: "Il gioco è troppo grosso, bisogna capire come stanno le cose". Incontra Ribbentrop che lo informa che la Germania vuole la guerra! La Germania aveva scommesso che Francia e Inghilterra non interverranno. Il **12 agosto** Milano si svuota: 500000 persone prendono il treno per andare al mare. Il **13 agosto** Hitler telefona a Mussolini: "al primo incidente attacchiamo la Polonia, i miei generali hanno calcolato che ci vogliono 6 settimane per conquistare la Polonia". 
+
+La stampa italiana appoggia la propaganda tedesca nella propaganda contro la Polonia *(che "opprime" le popolazioni tedesche)*.
+
+Per la gente di allora la Germania nazista e l'Unione Sovietica comunista appaiono come i due paesi più contrari che esistano. Il Patto Molotov-Ribbentrop è un vero e proprio shock! In quei giorno la URSS stava combattendo una guerra segreta e non dichiarata con il Giappone in Mongolia *(una guerra che farà 70000 morti e feriti)*. Il generale **Jucov** russo sbaraglia i giapponesi.
+
+Hitler si convince che dall'Italia non poteva ricevere aiuto militare, ma poteva avere operai. Introduce la tessera per i generi alimentari *(il razionamento)*. In Italia scatta il divieto di circolazione per le automobili private, l'austerità nei ristoranti *(una sola pietanza nei menu)*. Vengono sospesi i campionati mondiali di ciclismo a Varese, esce il divieto di vendita del caffé ai privati etc...
+
+Si iniziano a costruire ripari anti-aerei e maschere antigas.

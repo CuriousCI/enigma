@@ -371,3 +371,5 @@
 **autarchia**
 - padronanza, dominio di se
 - capacita' degli enti pubblici di amministrare
+
+**protervia**
