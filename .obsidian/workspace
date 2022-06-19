@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/Biblioteca.md",
+            "file": "_notes/Public/Antonio Gramsci.md",
             "mode": "source",
-            "backlinks": true,
             "source": false
           }
         }
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Biblioteca.md",
+                "file": "_notes/Public/Antonio Gramsci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "5eb44ded74d6b79f",
   "lastOpenFiles": [
+    "_notes/Public/Antonio Gramsci.md",
+    "assets/img/Antonio Gramsci.png",
     "_notes/Public/Biblioteca.md",
-    "_notes/Public/Storia.md",
     "_notes/Public/Barbero.md",
+    "_notes/Public/Enrico Berlinguer.md",
+    "_notes/Public/Pier Paolo Pasolini.md",
+    "_notes/Public/Storia.md",
     "_notes/Public/arnesi/Dizionario.md",
     "_notes/Public/L'umanista digitale.md",
-    "_notes/Public/altro/Seconda guerra mondiale Barbero.md",
-    "_notes/Public/altro/Prima guerra mondiale Barbero.md",
-    "_notes/Public/Belle Époque.md",
-    "_notes/Public/altro/pena di morte.md",
-    "_notes/Public/altro/hacking.md"
+    "_notes/Public/altro/Seconda guerra mondiale Barbero.md"
   ]
 }
