@@ -31,4 +31,14 @@ format: list
 ### 2020
 - [The Rust Programming Language](https://doc.rust-lang.org/book/) -  *by Steve Klabnik and Carol Nichols, with contributions from the Rust Community*
 - [Se questo è un uomo]() - *Primo Levi*
+- [Narciso e Boccadoro]() - *Herman Hesse*
+- [Lo strano caso del dottor Jekyll e del signor Hyde]() - *Robert Louis Stevenson*
+
+### < 2019 
+- [Storia di Iqbal]() - *Francesco D'Adamo*
+- [Il buio oltre la siepe]() - *Harper Lee*
+- [Oliver Twist]() - *Charles Dickens*
+- [L'isola in via degli Uccelli]() - *Uri Orlev*
+- [Il mondo alla fine del mondo]() - *Luis Sepúlveda*
+- [La città delle bestie]() - *Isabel Allende*
 

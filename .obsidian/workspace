@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "9add11135bbc80af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Public/Biblioteca.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Antonio Gramsci.md",
+                "file": "_notes/Public/Biblioteca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +99,17 @@
     "width": 524,
     "collapsed": true
   },
-  "active": "5eb44ded74d6b79f",
+  "active": "9add11135bbc80af",
   "lastOpenFiles": [
-    "_notes/Public/Antonio Gramsci.md",
-    "assets/img/Antonio Gramsci.png",
     "_notes/Public/Biblioteca.md",
+    "_notes/Public/Giosuè Carducci.md",
+    "_notes/Public/Antonio Gramsci.md",
+    "_notes/Public/Pier Paolo Pasolini.md",
+    "_notes/Public/autori/Gabriele D'Annunzio.md",
+    "assets/img/Antonio Gramsci.png",
     "_notes/Public/Barbero.md",
     "_notes/Public/Enrico Berlinguer.md",
-    "_notes/Public/Pier Paolo Pasolini.md",
     "_notes/Public/Storia.md",
-    "_notes/Public/arnesi/Dizionario.md",
-    "_notes/Public/L'umanista digitale.md",
-    "_notes/Public/altro/Seconda guerra mondiale Barbero.md"
+    "_notes/Public/arnesi/Dizionario.md"
   ]
 }
