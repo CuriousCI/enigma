@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/Biblioteca.md",
+            "file": "_notes/Public/Il Cronologo.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Biblioteca.md",
+                "file": "_notes/Public/Antonio Gramsci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 524,
     "collapsed": true
   },
-  "active": "9add11135bbc80af",
+  "active": "5eb44ded74d6b79f",
   "lastOpenFiles": [
-    "_notes/Public/Biblioteca.md",
-    "_notes/Public/Giosuè Carducci.md",
     "_notes/Public/Antonio Gramsci.md",
-    "_notes/Public/Pier Paolo Pasolini.md",
-    "_notes/Public/autori/Gabriele D'Annunzio.md",
-    "assets/img/Antonio Gramsci.png",
-    "_notes/Public/Barbero.md",
-    "_notes/Public/Enrico Berlinguer.md",
-    "_notes/Public/Storia.md",
-    "_notes/Public/arnesi/Dizionario.md"
+    "_notes/Public/Il Cronologo.md",
+    "Il ruolo della religione fra Ottocento e Novecento.md",
+    "_notes/Public/autori/Umberto Saba.md",
+    "_notes/Public/autori/Ugo Foscolo.md",
+    "_notes/Public/autori/Thomas Mann.md",
+    "_notes/Public/autori/Salvatore Quasimodo.md",
+    "_notes/Public/autori/Renata Viganò.md",
+    "_notes/Public/autori/Piero Jahier.md",
+    "_notes/Public/autori/Primo Levi.md"
   ]
 }
