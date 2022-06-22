@@ -106,7 +106,7 @@ L'**insieme immagine** *(o semplicemente **immagine**)* della funzione è format
 
 > 1. Sia $f: D \rightarrow \mathbb{R}$ una funzione e sia $I$ l'insieme immagine della funzione. L'estremo superiore e l'estremo inferiore dell'insieme $I$ vengono chiamati rispettivamente **estremo superiore** ed **estremo inferiore della funzione** e si indicano con i simboli: $\sup f(x)$ e $\inf f(x)$ 
 >
-> 2. Analogmante, ses esistono il massimo o il minimo dell'insieme $I$, vengono chiamati **massimo**  e **minimo (assoluti) della funzione** e si indicano con i simboli: $\max f(x)$ e $\min f(x)$ 
+> 2. Analogmante, se esistono il massimo o il minimo dell'insieme $I$, vengono chiamati **massimo**  e **minimo (assoluti) della funzione** e si indicano con i simboli: $\max f(x)$ e $\min f(x)$ 
 
 > Sia $f: D \rightarrow \mathbb{R}$ una funzione. La funzione si dice:
 >
