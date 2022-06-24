@@ -8,3 +8,4 @@ Uno *sterminato* elenco di date di eventi importanti, autori, e opere dell'**Ott
 
 %%CECA, CEE, NATO, PATTO di VARSAViA%%
 %%Autori%%
+%%Personaggi importanti%%
