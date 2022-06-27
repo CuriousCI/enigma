@@ -4,8 +4,8 @@ feed: show
 date: 18-06-2022
 ---
 
-L'applicazione dell'informatica alle scienze umanistiche in [Italia](Italia.md) è ancora pionieristica. Gli autori del libro si sono occupati spesso di informatica per le scienze umane:
-* *Teresa Numerico*: ricercatrice in **Logica e Filosofia** a [Roma](Roma.md) tre, dove insegna **Epistemologia** _(teoria della conoscenza)_ dei nuovi media.
+L'applicazione dell'informatica alle scienze umanistiche in Italia è ancora pionieristica. Gli autori del libro si sono occupati spesso di informatica per le scienze umane:
+* *Teresa Numerico*: ricercatrice in **Logica e Filosofia** a Roma tre, dove insegna **Epistemologia** _(teoria della conoscenza)_ dei nuovi media.
 * *Domenico Fiormonte*: ricercatore in **Sociologia dei processi** a Roma tre, ha tenuto un corso di **Editoria online**.
 * *Francesca Tomasi*: ricercatrice all'Università di Bologna, insegna **Informatica umanistica**.
 
