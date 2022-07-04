@@ -4,7 +4,7 @@ feed: show
 date: 16-06-2022
 ---
 
-*"La **Storia**, progettare il futuro"*; il **Novecento** e l'età attuale di [Alessandro Barbero](https://open.spotify.com/show/2G4tqGffDNWKTU5oYQRg1W), Chiara Frugoni e Carla Sclarandis. Alcune *riflessioni* sono ricavate dalle lezioni del professore [Piero Morpurgo](http://www.pieromorpurgo.com/), nonostante la *struttura* e i *contenuti* siano per la maggior parte una sinstesi del manuale citato.
+*"La **Storia**, progettare il futuro"*; il **Novecento** e l'età attuale di [Alessandro Barbero](https://open.spotify.com/show/2G4tqGffDNWKTU5oYQRg1W), Chiara Frugoni e Carla Sclarandis. Alcune *riflessioni* sono ricavate dalle lezioni del professore [Piero Morpurgo](http://www.pieromorpurgo.com/), nonostante la *struttura* e i *contenuti* siano per la maggior parte una sinstesi del manuale.
 
 # Il tramonto dell'eurocentrismo
 ## 1 - La Belle Époque tra luci e ombre
