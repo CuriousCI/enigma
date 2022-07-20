@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/Il Cronologo.md",
+            "file": "Il calice perduto.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Il Cronologo.md",
+                "file": "Il calice perduto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "9add11135bbc80af",
   "lastOpenFiles": [
+    "Il calice perduto.md",
     "_notes/Public/Il Cronologo.md",
     "_notes/Public/L'umanista digitale.md",
     "_notes/Public/analisi/Limiti.md",
@@ -109,7 +110,6 @@
     "_notes/Public/Antonio Gramsci.md",
     "Il ruolo della religione fra Ottocento e Novecento.md",
     "_notes/Public/autori/Umberto Saba.md",
-    "_notes/Public/autori/Ugo Foscolo.md",
-    "_notes/Public/autori/Thomas Mann.md"
+    "_notes/Public/autori/Ugo Foscolo.md"
   ]
 }
