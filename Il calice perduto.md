@@ -6,7 +6,7 @@ date: 26-07-2022
 
 ## L'epica caccia per un pezzo insetimabile
 ### L'offerente anonimo %% T %%
-%%### Seppellendo Sarpedon%% 
+### Seppellendo Sarpedon 
 %%### La tomba%%
 %%### La "pentola calda" %% T %%%%
 %%### Il gemello perduto di Sarpedon%%
