@@ -9,7 +9,7 @@ date: 26-07-2022
 ### Seppellendo Sarpedon 
 ### La tomba
 ### La "pentola calda" %% T %%
-%%### Il gemello perduto di Sarpedon%%
+### Il gemello perduto di Sarpedon
 %%### Hollywood e Dallas%%
 %%### Rovesciamenti di fortuna %% T %%%%
 %%### L'asta del secolo%%
