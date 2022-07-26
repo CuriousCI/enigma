@@ -10,7 +10,7 @@ date: 26-07-2022
 ### La tomba
 ### La "pentola calda" %% T %%
 ### Il gemello perduto di Sarpedon
-%%### Hollywood e Dallas%%
+### Hollywood e Dallas
 %%### Rovesciamenti di fortuna %% T %%%%
 %%### L'asta del secolo%%
 %%### Infranto%%
